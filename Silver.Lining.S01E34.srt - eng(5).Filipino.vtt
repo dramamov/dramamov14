@@ -1,0 +1,1297 @@
+WEBVTT
+Kind: captions
+Language: pt-PT
+
+00:00:32.680 --> 00:00:34.880
+Wang Yuya
+
+00:00:55.120 --> 00:00:55.980
+Direktor Chang
+
+00:00:56.320 --> 00:00:58.400
+Pakitingnan ang dalawang blackboard na ito.
+
+00:00:58.400 --> 00:00:59.640
+Itong hilera ng mga numero sa itaas
+
+00:00:59.640 --> 00:01:00.920
+ay iniwan ni Kasamang Zhang Jinguo
+
+00:01:00.920 --> 00:01:02.600
+sa teksto ng opera.
+
+00:01:02.680 --> 00:01:03.880
+Ipinapakita nito ang mga panuntunan sa pagmamapa
+
+00:01:03.880 --> 00:01:05.680
+sa pagitan ng mga numero at titik
+
+00:01:05.920 --> 00:01:08.080
+na bahagi ng encryption code.
+
+00:01:08.440 --> 00:01:09.960
+At ang hanay na ito sa ibaba
+
+00:01:10.200 --> 00:01:11.360
+ay ang array na lumitaw
+
+00:01:11.360 --> 00:01:12.920
+sa alaala ni Chi Xia.
+
+00:01:13.520 --> 00:01:14.680
+Batay sa aming pagsusuri,
+
+00:01:14.680 --> 00:01:16.280
+makakagawa tayo ng konklusyon.
+
+00:01:16.760 --> 00:01:18.920
+Kasamang Zhang Jinguo at Kasamang Fu Gang
+
+00:01:18.920 --> 00:01:20.480
+gumamit ng 26 na numero
+
+00:01:20.720 --> 00:01:21.960
+upang tumugma sa 26
+
+00:01:21.960 --> 00:01:23.880
+piniritong mga titik.
+
+00:01:24.200 --> 00:01:25.120
+Sa madaling salita,
+
+00:01:25.160 --> 00:01:26.120
+kung mahahanap natin
+
+00:01:26.120 --> 00:01:29.250
+ang eksaktong ugnayan sa pagitan ng mga numero at titik,
+
+00:01:29.400 --> 00:01:32.120
+maaari naming i-decode ang mensahe
+
+00:01:32.200 --> 00:01:34.060
+na naiwan ni Kasamang Fu Gang.
+
+00:01:34.920 --> 00:01:36.240
+Ito ay madaling maunawaan.
+
+00:01:36.240 --> 00:01:38.320
+Itinago nila ang mga panuntunan sa pag-encrypt
+
+00:01:38.360 --> 00:01:40.320
+sa script ng opera.
+
+00:01:41.000 --> 00:01:43.440
+Ngunit para sa natitirang 23 na numero,
+
+00:01:43.640 --> 00:01:44.840
+paano mo nalaman
+
+00:01:44.960 --> 00:01:47.320
+aling mga titik ang kanilang katumbas?
+
+00:01:47.320 --> 00:01:48.039
+Direktor Chang,
+
+00:01:48.039 --> 00:01:48.770
+tingnan mo ito.
+
+00:01:49.039 --> 00:01:50.800
+Malinis ang buong script.
+
+00:01:50.800 --> 00:01:51.600
+gayunpaman,
+
+00:01:51.600 --> 00:01:53.200
+ang tatlong letrang ito lamang
+
+00:01:53.680 --> 00:01:55.080
+ay hiwalay na minarkahan.
+
+00:01:55.720 --> 00:01:57.160
+Dahil itong tatlong letra
+
+00:01:57.160 --> 00:01:58.600
+hindi maaaring umiral bilang
+
+00:01:58.600 --> 00:02:00.600
+mga paunang titik ng pinyin sa Chinese.
+
+00:02:00.720 --> 00:02:02.360
+At sa buong teksto,
+
+00:02:02.360 --> 00:02:03.520
+may mga Chinese character lang,
+
+00:02:03.520 --> 00:02:04.680
+walang mga titik.
+
+00:02:05.000 --> 00:02:06.040
+Kaya sa kabaligtaran,
+
+00:02:06.160 --> 00:02:07.160
+ito ay tiyak na nagpapahiwatig
+
+00:02:07.160 --> 00:02:09.199
+na mula 1 hanggang 23,
+
+00:02:09.400 --> 00:02:11.000
+itong 23 numero
+
+00:02:11.000 --> 00:02:12.200
+bawat isa ay tumutugma sa mga tiyak na titik.
+
+00:02:12.200 --> 00:02:12.520
+23 Chinese character na may iba't ibang inisyal na YNO
+
+00:02:12.520 --> 00:02:15.250
+23 Chinese na character na may iba't ibang inisyal.
+
+00:02:16.840 --> 00:02:19.040
+Paggamit ng mga numero upang kunin ang mga character na Tsino
+
+00:02:19.040 --> 00:02:20.400
+maaaring gawin sa hindi mabilang na mga paraan.
+
+00:02:20.400 --> 00:02:21.200
+gayunpaman,
+
+00:02:21.440 --> 00:02:22.600
+kung gagamitin lang natin
+
+00:02:22.600 --> 00:02:24.840
+solong digit hanggang 23,
+
+00:02:25.000 --> 00:02:28.060
+upang tumugma sa mga character ng iba't ibang mga inisyal,
+
+00:02:28.120 --> 00:02:30.320
+pagkatapos ay may mga limitadong posibilidad.
+
+00:02:30.520 --> 00:02:32.120
+Mula sa lohikal na pananaw,
+
+00:02:32.120 --> 00:02:34.680
+kung ito ay isang ganap na random na panuntunan sa pag-encrypt,
+
+00:02:34.760 --> 00:02:35.760
+tapos silang dalawa
+
+00:02:35.760 --> 00:02:38.040
+kailangang isaulo
+
+00:02:38.400 --> 00:02:39.400
+lahat ng 23 numero.
+
+00:02:39.960 --> 00:02:41.360
+Ito ay magiging lubhang mapanganib.
+
+00:02:41.480 --> 00:02:42.720
+Kaya naniniwala ako
+
+00:02:43.079 --> 00:02:44.880
+na sa loob ng opera text na ito,
+
+00:02:44.880 --> 00:02:46.720
+dapat may simple
+
+00:02:46.840 --> 00:02:48.640
+at mahusay na panuntunan sa pag-encrypt,
+
+00:02:48.840 --> 00:02:50.640
+na nagpapahintulot sa parehong mga tao na mabilis
+
+00:02:50.680 --> 00:02:51.760
+at tumpak
+
+00:02:51.760 --> 00:02:54.320
+i-encrypt at i-decrypt ang impormasyon.
+
+00:02:55.680 --> 00:02:57.400
+Samakatuwid, sa konklusyon,
+
+00:02:58.760 --> 00:03:02.560
+Inilista ko ang lahat ng lyrics sa pagkakasunud-sunod,
+
+00:03:02.840 --> 00:03:03.840
+isulat ang kanilang mga inisyal
+
+00:03:03.840 --> 00:03:05.600
+at pati na rin ang mga unang titik.
+
+00:03:05.600 --> 00:03:06.920
+Pero pansinin mo dito.
+
+00:03:06.920 --> 00:03:07.920
+Patayin ang taksil.
+
+00:03:07.920 --> 00:03:09.480
+Para sa mga karakter na paulit-ulit,
+
+00:03:09.480 --> 00:03:10.800
+itatago natin sila.
+
+00:03:11.160 --> 00:03:13.840
+Halimbawa, ang 'zan' ay Z.
+
+00:03:14.600 --> 00:03:16.040
+Ito rin si Z.
+
+00:03:16.600 --> 00:03:17.760
+Kaya hindi natin ito kailangan.
+
+00:03:18.520 --> 00:03:19.560
+Ang 'Na' ay N.
+
+00:03:19.600 --> 00:03:20.120
+[Jiao Zan (Tatak ng Moth, katawan
+
+00:03:20.120 --> 00:03:21.280
+Ito rin si N.
+
+00:03:21.480 --> 00:03:22.940
+Kaya hindi rin natin kailangan.
+
+00:03:23.720 --> 00:03:25.280
+Mula 1 hanggang 23.
+
+00:03:25.640 --> 00:03:27.560
+Isusulat namin ang 23 numerong ito
+
+00:03:27.720 --> 00:03:29.760
+gamit ang mga titik
+
+00:03:29.800 --> 00:03:30.930
+na lumitaw.
+
+00:03:32.640 --> 00:03:33.400
+Ito ay 6.
+
+00:03:34.720 --> 00:03:35.480
+Ito ay 7.
+
+00:03:36.160 --> 00:03:38.200
+Magsusulat kami
+
+00:03:40.680 --> 00:03:41.880
+lahat ng mga numerong ito sa pagkakasunod-sunod.
+
+00:03:41.880 --> 00:03:43.280
+Maaari tayong gumawa ng konklusyon.
+
+00:03:46.079 --> 00:03:47.540
+[Zhuxianxian Moth Brand]
+
+00:03:50.320 --> 00:03:51.960
+Binigyang-diin ito ni Kasamang Zhang Jinguo.
+
+00:03:51.960 --> 00:03:52.440
+Ito ay 1.
+
+00:03:56.320 --> 00:03:56.960
+Plus isang piraso.
+
+00:03:56.960 --> 00:03:57.160
+12.
+
+00:03:58.840 --> 00:03:59.760
+14 ang lumitaw dito dati.
+
+00:03:59.760 --> 00:04:01.320
+Isulat natin itong muli.
+
+00:04:08.200 --> 00:04:09.200
+Kaya sa wakas,
+
+00:04:09.560 --> 00:04:11.000
+nakarating na kami sa isang
+
+00:04:12.440 --> 00:04:13.700
+tumpak na konklusyon.
+
+00:04:15.160 --> 00:04:16.089
+Direktor Chang,
+
+00:04:17.600 --> 00:04:19.260
+mangyaring bigyan kami ng mga tagubilin.
+
+00:04:24.360 --> 00:04:25.080
+Luo Xun.
+
+00:04:25.080 --> 00:04:26.320
+Hindi kita inaasahan
+
+00:04:26.360 --> 00:04:28.440
+upang maging napakahusay sa pag-crack ng mga pattern.
+
+00:04:29.120 --> 00:04:30.450
+I-verify ito kaagad.
+
+00:04:30.480 --> 00:04:31.560
+Kung susundin natin ang lead na ito
+
+00:04:31.560 --> 00:04:32.880
+at humanap ng ebidensya,
+
+00:04:33.000 --> 00:04:33.800
+tapos kami
+
+00:04:34.040 --> 00:04:36.080
+ay tunay na makakakuha ng mataas na kamay.
+
+00:04:36.400 --> 00:04:37.200
+Okay.
+
+00:04:41.880 --> 00:04:42.680
+Ito ay tumutugma.
+
+00:04:42.680 --> 00:04:43.480
+Kapitan Luo,
+
+00:04:44.000 --> 00:04:45.040
+tingnan mo ito.
+
+00:04:45.040 --> 00:04:45.840
+Oo.
+
+00:04:47.080 --> 00:04:47.880
+Isinasaalang-alang ang Fu Gang's
+
+00:04:47.880 --> 00:04:49.360
+limitadong kalayaan sa paggalaw,
+
+00:04:49.360 --> 00:04:50.720
+hindi dapat malayo ang kanyang pinagtataguan
+
+00:04:50.720 --> 00:04:51.920
+Lawa Village.
+
+00:04:51.920 --> 00:04:52.680
+Kaya maghahanap lang tayo
+
+00:04:52.680 --> 00:04:54.920
+sa Mengkunbang malapit sa Lawa Village,
+
+00:04:54.920 --> 00:04:56.640
+Lungsod ng Dongzhou sa hangganan ng Mengkunbang,
+
+00:04:56.640 --> 00:04:57.560
+at Yuhe City.
+
+00:04:57.600 --> 00:04:58.800
+Ang posibleng lokasyon
+
+00:04:58.800 --> 00:05:00.000
+ang walong letrang ito.
+
+00:05:00.280 --> 00:05:02.400
+Nahahati sa inisyal at pangwakas,
+
+00:05:02.760 --> 00:05:04.000
+kinakatawan nila ang hindi hihigit sa apat na character na Tsino.
+
+00:05:04.000 --> 00:05:05.800
+Sinubukan kong maghanap ng mga lokasyong may apat na karakter
+
+00:05:05.800 --> 00:05:07.280
+ngunit walang nakitang tumugma.
+
+00:05:07.280 --> 00:05:08.560
+Pagkatapos ay sinubukan ko ang tatlong karakter,
+
+00:05:08.560 --> 00:05:09.480
+wala pa rin.
+
+00:05:09.480 --> 00:05:10.560
+Sa wakas, sinubukan ko ang dalawang karakter
+
+00:05:10.560 --> 00:05:12.160
+at nakahanap ng 16 na posibilidad.
+
+00:05:12.400 --> 00:05:13.200
+Pero
+
+00:05:14.040 --> 00:05:15.640
+mga lokasyon na umiral nang mahigit 15 taon.
+
+00:05:15.640 --> 00:05:16.320
+tingnan mo,
+
+00:05:16.320 --> 00:05:17.720
+unang pahina, ikaapat na linya,
+
+00:05:19.640 --> 00:05:20.440
+Jacket.
+
+00:05:20.560 --> 00:05:21.680
+May sementeryo sa ating Dongzhou City
+
+00:05:21.680 --> 00:05:22.940
+tinatawag na Jile Cemetery.
+
+00:05:23.720 --> 00:05:24.720
+Tungkol sa LIZE na ito,
+
+00:05:24.720 --> 00:05:26.800
+Sa tingin ko ito ay maaaring pangalan ng isang tao,
+
+00:05:26.800 --> 00:05:28.130
+malamang may apelyido Li.
+
+00:05:28.240 --> 00:05:29.560
+At itong ZE sa dulo,
+
+00:05:30.560 --> 00:05:31.280
+kung aling tono ito,
+
+00:05:31.280 --> 00:05:32.920
+kailangan nating pumunta sa sementeryo para mag-imbestiga.
+
+00:05:32.920 --> 00:05:35.520
+Maaaring nakatago ang item sa libingan ng taong ito,
+
+00:05:35.520 --> 00:05:37.360
+o kahit sa kanilang urn.
+
+00:06:16.800 --> 00:06:17.960
+Kumusta, Cui?
+
+00:06:19.080 --> 00:06:19.800
+Hindi pwede.
+
+00:06:19.800 --> 00:06:21.060
+Hindi natin ito mapipilitang buksan.
+
+00:06:21.240 --> 00:06:22.920
+Mayroon itong self-destruct program sa loob.
+
+00:06:22.920 --> 00:06:24.400
+Kung susubukan nating buksan ito,
+
+00:06:24.520 --> 00:06:27.320
+sisirain nito ang lahat ng ebidensyang kriminal sa loob.
+
+00:06:28.120 --> 00:06:30.720
+Naniniwala ako sa orihinal na intensyon ng disenyo nito
+
+00:06:30.880 --> 00:06:32.120
+ay iyon kahit na isang suspek
+
+00:06:32.120 --> 00:06:33.480
+humawak sa urn na ito,
+
+00:06:33.920 --> 00:06:34.800
+walang password,
+
+00:06:34.800 --> 00:06:35.800
+pilit itong binubuksan
+
+00:06:36.200 --> 00:06:38.730
+sisirain pa rin ang lahat ng mga formula sa loob.
+
+00:06:40.040 --> 00:06:41.159
+Pero ang problema,
+
+00:06:41.400 --> 00:06:43.120
+ayon sa feedback ni Chi Xia,
+
+00:06:43.120 --> 00:06:44.840
+Malaki ang tiwala ni Old K
+
+00:06:44.840 --> 00:06:46.600
+hangga't maaari niyang mahanap ang lokasyon,
+
+00:06:46.600 --> 00:06:48.040
+makukuha niya ang nasa loob.
+
+00:06:49.720 --> 00:06:51.650
+Dapat alam na niya ang password.
+
+00:06:54.880 --> 00:06:56.120
+Makakagawa ka ba ng device?
+
+00:06:56.120 --> 00:06:57.159
+Anong uri ng aparato?
+
+00:06:57.159 --> 00:06:57.920
+Isa na kamukhang-kamukha
+
+00:06:57.920 --> 00:06:59.360
+itong urn,
+
+00:06:59.360 --> 00:07:00.520
+isang perpektong isa-sa-isang replika.
+
+00:07:00.520 --> 00:07:02.280
+Ngunit sa tuwing may nagpasok ng password,
+
+00:07:02.280 --> 00:07:05.540
+maaari nating makuha ang impormasyon ng password na iyon nang sabay-sabay.
+
+00:07:05.960 --> 00:07:06.920
+Ito ay dapat na posible.
+
+00:07:06.920 --> 00:07:07.600
+gayunpaman,
+
+00:07:07.600 --> 00:07:08.800
+Kakailanganin ko ng oras.
+
+00:07:09.080 --> 00:07:09.720
+Mabuti.
+
+00:07:09.720 --> 00:07:10.360
+Salamat sa iyong pagsusumikap,
+
+00:07:10.360 --> 00:07:11.620
+ngunit kailangan natin ito nang mabilis.
+
+00:07:26.280 --> 00:07:27.080
+Kulot.
+
+00:07:28.360 --> 00:07:29.960
+Maaari kang makipag-ugnayan kay Chi Xia ngayon.
+
+00:07:30.160 --> 00:07:31.040
+Sabihin mo sa kanya
+
+00:07:31.360 --> 00:07:33.880
+naglapat na kami ng teknikal na pagproseso sa urn
+
+00:07:33.880 --> 00:07:35.440
+at magse-set up ng surveillance dito.
+
+00:07:35.440 --> 00:07:38.200
+Magagamit na niya ngayon ang data array para makipagpalitan ng Fu Gang.
+
+00:07:38.200 --> 00:07:39.000
+Oo.
+
+00:07:39.960 --> 00:07:42.200
+Siguraduhing ligtas na babalik sa bansa si Fu Gang.
+
+00:07:42.200 --> 00:07:43.120
+Sabihin mo sa kanya
+
+00:07:43.280 --> 00:07:44.740
+mag-ingat din sa sarili.
+
+00:07:45.560 --> 00:07:46.360
+Okay.
+
+00:08:17.760 --> 00:08:18.480
+Kapitan Luo,
+
+00:08:18.480 --> 00:08:19.200
+ako ito.
+
+00:08:20.280 --> 00:08:21.640
+Bukas na babalik si Old K.
+
+00:08:21.640 --> 00:08:23.160
+Ang oras ng operasyon ay 6 PM.
+
+00:08:23.160 --> 00:08:24.040
+Gumagamit siya ng pekeng address
+
+00:08:24.040 --> 00:08:25.700
+para subukan kung nakatalikod na talaga ako.
+
+00:08:26.040 --> 00:08:28.000
+Kaya ipadala ang iyong mga tao sa Lizang Museum
+
+00:08:28.000 --> 00:08:29.040
+upang maglagay ng isang palabas para sa kanya.
+
+00:08:29.040 --> 00:08:30.200
+Paniwalaan mo siya na Jile Cemetery
+
+00:08:30.200 --> 00:08:31.760
+hindi pa natuklasan ng mga pulis
+
+00:08:31.760 --> 00:08:33.000
+at isipin na ligtas pa rin ito.
+
+00:08:33.000 --> 00:08:33.720
+Hindi.
+
+00:08:34.320 --> 00:08:35.880
+Tiyak na malantad ka sa ganitong paraan.
+
+00:08:35.880 --> 00:08:37.520
+Naisip mo ba ang iyong sariling sitwasyon?
+
+00:08:37.520 --> 00:08:38.720
+Luo Xun, makinig ka sa akin.
+
+00:08:38.840 --> 00:08:40.840
+Hindi ako makakasama ni Old K bukas.
+
+00:08:40.880 --> 00:08:42.539
+Binigyan niya ako ng isa pang assignment
+
+00:08:42.760 --> 00:08:44.080
+6PM din.
+
+00:08:44.360 --> 00:08:46.400
+Gusto niyang sundan ko ang mga taga-Kete Group
+
+00:08:46.400 --> 00:08:48.260
+sa Lilong Hotel sa hangganan.
+
+00:08:48.320 --> 00:08:50.050
+Pakikipag-ayos sa isang parmasyutiko
+
+00:08:50.280 --> 00:08:51.720
+na hindi makapaghatid ng mga kalakal sa ika-8 ng susunod na buwan.
+
+00:08:51.720 --> 00:08:53.160
+Nasa dead-end na sitwasyon din siya.
+
+00:08:53.160 --> 00:08:55.080
+Hindi siya mangangahas na saktan ang Special Division sa puntong ito.
+
+00:08:55.080 --> 00:08:56.040
+Kaya kapag hinuli namin siya
+
+00:08:56.040 --> 00:08:57.500
+sa Paradise Cemetery,
+
+00:08:57.520 --> 00:08:58.960
+hindi mo kailangang mag-alala
+
+00:08:58.960 --> 00:09:00.360
+tungkol sa presensya ko doon.
+
+00:09:00.720 --> 00:09:03.120
+I-set up lang ang operasyon nang may kumpiyansa.
+
+00:09:03.320 --> 00:09:05.180
+Alam ko kung ano ang inaalala mo.
+
+00:09:06.040 --> 00:09:07.040
+Sa hotel,
+
+00:09:08.120 --> 00:09:11.200
+Ang Old K ay walang paraan para kontrolin ang mga tao mula sa Kote Group.
+
+00:09:11.200 --> 00:09:12.530
+Kaya huwag mo akong alalahanin.
+
+00:09:14.680 --> 00:09:15.480
+Chi Xia.
+
+00:09:16.360 --> 00:09:17.680
+Bukas kakaharapin mo
+
+00:09:17.680 --> 00:09:20.520
+isang grupo ng mga desperadong kriminal na walang mawawala.
+
+00:09:20.520 --> 00:09:21.320
+Makatitiyak ka,
+
+00:09:21.520 --> 00:09:24.240
+Talagang magse-set up ako ng operasyon sa Lilong Hotel para suportahan ka.
+
+00:09:24.240 --> 00:09:25.320
+Huwag subukang maging isang bayani.
+
+00:09:25.320 --> 00:09:26.520
+Dapat kang manatiling ligtas.
+
+00:09:26.880 --> 00:09:28.280
+Kung mawawala sa atin ang mga taga Kote,
+
+00:09:28.280 --> 00:09:29.520
+Mahuhuli ko na naman sila.
+
+00:09:29.520 --> 00:09:31.240
+Pero bukas kailangan kitang makauwi ng ligtas.
+
+00:09:31.240 --> 00:09:32.120
+Naririnig mo ba ako?
+
+00:09:38.280 --> 00:09:39.400
+naiintindihan ko.
+
+00:09:43.400 --> 00:09:44.320
+Ang operasyong ito
+
+00:09:44.680 --> 00:09:47.360
+ay mataas ang priyoridad ng kagawaran ng probinsiya.
+
+00:09:47.360 --> 00:09:49.490
+Ang organisasyong kriminal na pinamumunuan ni Old K
+
+00:09:49.600 --> 00:09:51.800
+ay nakabaon sa Dongzhou sa loob ng maraming taon.
+
+00:09:51.800 --> 00:09:53.060
+Napakalaki ng kanilang kapangyarihan
+
+00:09:53.200 --> 00:09:54.640
+at ang kanilang abot ay malawak,
+
+00:09:54.640 --> 00:09:56.040
+hindi rin pwedeng maliitin.
+
+00:09:56.040 --> 00:09:59.000
+Ngayon ay nakapasok na sila sa merkado ng droga,
+
+00:09:59.200 --> 00:10:01.440
+naglalagay ng matinding banta
+
+00:10:01.920 --> 00:10:04.480
+sa buhay at ari-arian ng mga tao.
+
+00:10:04.480 --> 00:10:05.280
+Samakatuwid,
+
+00:10:05.560 --> 00:10:09.120
+ang operasyong ito ay dapat magtagumpay sa isang welga,
+
+00:10:09.480 --> 00:10:13.200
+at hindi natin siya hahayaang umatras pabalik sa Lawa Village.
+
+00:10:14.080 --> 00:10:14.880
+Naintindihan.
+
+00:10:15.040 --> 00:10:17.100
+Mangyaring makatitiyak, Direktor Qiao.
+
+00:10:20.320 --> 00:10:21.120
+Mabuti.
+
+00:10:21.240 --> 00:10:22.800
+Ngayon para sa mga takdang-aralin.
+
+00:10:22.800 --> 00:10:23.560
+alin,
+
+00:10:24.280 --> 00:10:25.840
+pamunuan ang pangkat ng seguridad
+
+00:10:25.840 --> 00:10:28.300
+para mag-set up ng surveillance sa Lizang Museum.
+
+00:10:28.760 --> 00:10:29.760
+Huwag masyadong discreet.
+
+00:10:29.760 --> 00:10:30.640
+Tiyaking napapansin ka.
+
+00:10:30.640 --> 00:10:31.370
+Naintindihan.
+
+00:10:31.800 --> 00:10:32.600
+Lin Wenjue,
+
+00:10:33.200 --> 00:10:35.680
+dalhin ang iyong koponan sa Lilong Hotel
+
+00:10:35.680 --> 00:10:37.600
+para suportahan si Chi Xia.
+
+00:10:37.600 --> 00:10:38.480
+Dalhin ang mas maraming tao sa iyo.
+
+00:10:38.480 --> 00:10:39.210
+Naintindihan.
+
+00:10:40.760 --> 00:10:41.560
+Luo Xun,
+
+00:10:42.320 --> 00:10:43.850
+ang pag-aresto sa Jile Cemetery
+
+00:10:44.360 --> 00:10:46.560
+magiging responsibilidad mo nang buo.
+
+00:10:47.880 --> 00:10:49.720
+Sisiguraduhin kong matutupad ang misyon.
+
+00:10:49.720 --> 00:10:50.520
+Mga kasama,
+
+00:10:50.720 --> 00:10:53.720
+Ang dayuhang organisasyong kriminal mula sa Lawa Village
+
+00:10:53.720 --> 00:10:55.640
+ay nakalusot na sa Dongzhou.
+
+00:10:55.640 --> 00:10:57.680
+Ang pinuno ng organisasyon, si Huang Weisheng,
+
+00:10:57.680 --> 00:10:59.240
+titigil sa wala
+
+00:10:59.400 --> 00:11:00.800
+upang makamit ang kanyang mga layunin.
+
+00:11:01.120 --> 00:11:02.360
+Sa nakalipas na anim na buwan,
+
+00:11:02.360 --> 00:11:03.960
+ilang sunod-sunod na pagpatay
+
+00:11:04.040 --> 00:11:06.400
+ay natakot sa mga tao ng Dongzhou.
+
+00:11:06.640 --> 00:11:07.480
+At ngayon,
+
+00:11:07.920 --> 00:11:11.920
+Nakatapak na si Huang Weisheng sa lupa ng Dongzhou.
+
+00:11:12.040 --> 00:11:13.160
+Sa operasyong ito,
+
+00:11:13.440 --> 00:11:15.720
+dapat natin siyang mahuli.
+
+00:11:16.960 --> 00:11:19.040
+Panahon na para palayain ang ating bayan
+
+00:11:19.120 --> 00:11:21.200
+mula sa kanilang takot.
+
+00:11:21.520 --> 00:11:22.440
+Dapat natin silang hayaan
+
+00:11:22.680 --> 00:11:26.240
+nakatira sa isang lupain na protektado ng batas.
+
+00:11:26.560 --> 00:11:27.760
+Ang ating bansa
+
+00:11:27.920 --> 00:11:29.000
+hindi magpaparaya
+
+00:11:29.000 --> 00:11:31.560
+paglusot ng mga dayuhang organisasyong kriminal.
+
+00:11:31.560 --> 00:11:32.490
+Para sa ating bansa,
+
+00:11:32.680 --> 00:11:33.640
+para sa ating bayan,
+
+00:11:34.120 --> 00:11:36.180
+at para sa karangalan ng kapulisan,
+
+00:11:36.600 --> 00:11:39.680
+dapat nating alisin ang cancer na ito
+
+00:11:40.160 --> 00:11:41.690
+at i-ugat ito nang lubusan.
+
+00:11:42.360 --> 00:11:43.160
+Naiintindihan?
+
+00:11:43.240 --> 00:11:44.040
+Naintindihan.
+
+00:11:49.440 --> 00:11:50.200
+Luo Xun.
+
+00:11:50.200 --> 00:11:50.840
+Oo, sir.
+
+00:11:52.240 --> 00:11:53.320
+Para sa operasyong ito,
+
+00:11:53.320 --> 00:11:54.680
+ikaw ay nasa buong utos.
+
+00:11:54.680 --> 00:11:55.440
+Oo, sir.
+
+00:12:01.200 --> 00:12:02.000
+Tara na.
+
+00:12:02.000 --> 00:12:02.760
+Oo.
+
+00:12:35.880 --> 00:12:36.680
+Kapitan Luo,
+
+00:12:37.160 --> 00:12:39.120
+15 minuto na ang nakalipas sa napagkasunduang oras.
+
+00:12:39.120 --> 00:12:40.200
+Walang palatandaan ng Chi Xia,
+
+00:12:40.200 --> 00:12:42.330
+at wala ring pharmacist na nagpakita.
+
+00:12:44.560 --> 00:12:45.490
+Nagkamali ako.
+
+00:12:46.200 --> 00:12:47.760
+Ang Lilong Hotel ay isang harapan lamang.
+
+00:12:47.760 --> 00:12:49.840
+Si Chi Xia ay dapat kasama si Old K ngayon.
+
+00:12:50.200 --> 00:12:51.000
+Oo,
+
+00:12:51.120 --> 00:12:52.400
+paalisin ang lahat ngayon.
+
+00:12:52.400 --> 00:12:52.720
+Naintindihan.
+
+00:12:52.720 --> 00:12:53.400
+Nakuha ko.
+
+00:12:54.080 --> 00:12:54.840
+lahat,
+
+00:12:54.840 --> 00:12:55.640
+bumalik ka ngayon!
+
+00:12:59.480 --> 00:13:00.280
+Mobile unit,
+
+00:13:00.400 --> 00:13:01.480
+tumayo sa tabi.
+
+00:13:01.760 --> 00:13:02.520
+Kopyahin mo yan.
+
+00:13:11.960 --> 00:13:13.040
+Ang mahal ng Qu Bai.
+
+00:13:22.640 --> 00:13:23.440
+Chi Xia
+
+00:13:27.920 --> 00:13:29.000
+Lahat ng unit,
+
+00:13:29.040 --> 00:13:29.970
+hintayin ang mga order ko.
+
+00:13:30.280 --> 00:13:32.080
+Maging handa upang palibutan at arestuhin ang target.
+
+00:13:32.080 --> 00:13:32.760
+Team One, kopyahin.
+
+00:13:32.760 --> 00:13:33.620
+Team Two, kopyahin.
+
+00:13:40.400 --> 00:13:42.320
+Mountain road interception team sa posisyon.
+
+00:13:42.320 --> 00:13:43.160
+Harangan ang lahat ng kalsada
+
+00:13:43.160 --> 00:13:44.640
+at ihinto ang lahat ng dumaraan na sasakyan.
+
+00:13:44.640 --> 00:13:45.240
+Kopyahin mo yan.
+
+00:13:48.800 --> 00:13:50.040
+Nandito na ang urn.
+
+00:13:56.600 --> 00:13:58.060
+I-secure ang lock ng password.
+
+00:13:58.200 --> 00:13:58.800
+Nakuha ko.
+
+00:14:18.320 --> 00:14:19.080
+Tapos na.
+
+00:14:26.160 --> 00:14:26.840
+Mangolekta ng ebidensya.
+
+00:14:26.840 --> 00:14:27.480
+Nakuha ko.
+
+00:14:34.960 --> 00:14:35.760
+Kapitan Luo.
+
+00:14:37.920 --> 00:14:38.440
+Okay.
+
+00:14:46.280 --> 00:14:47.040
+lahat,
+
+00:14:47.040 --> 00:14:48.240
+lumipat at palibutan.
+
+00:14:48.880 --> 00:14:50.210
+Team two, kumaliwa.
+
+00:14:52.200 --> 00:14:53.460
+Assault team, lumipat.
+
+00:14:55.160 --> 00:14:56.720
+Nasa posisyon ang likurang koponan.
+
+00:14:58.440 --> 00:15:00.040
+Unang koponan, tumalon pasulong.
+
+00:15:01.200 --> 00:15:01.860
+Wag kang gumalaw.
+
+00:15:02.360 --> 00:15:02.720
+I-freeze!
+
+00:15:02.720 --> 00:15:03.200
+Pulis!
+
+00:15:03.200 --> 00:15:03.800
+Wag kang gumalaw!
+
+00:15:03.800 --> 00:15:04.520
+Pulis!
+
+00:15:04.960 --> 00:15:05.420
+I-freeze!
+
+00:15:06.360 --> 00:15:08.160
+I-drop ang iyong mga armas.
+
+00:15:08.240 --> 00:15:09.240
+Ibaba mo lahat ng baril.
+
+00:15:10.240 --> 00:15:11.040
+Walang gumagalaw.
+
+00:15:13.400 --> 00:15:15.400
+Ito ay isang pressure-triggered na bomba.
+
+00:15:15.640 --> 00:15:17.840
+Kung bumagsak man ito ng bahagya sa lupa,
+
+00:15:18.360 --> 00:15:19.680
+ang bomba kay Chi Xia
+
+00:15:19.680 --> 00:15:21.000
+sasabog agad.
+
+00:15:21.000 --> 00:15:22.400
+Ang bomba ay hindi malakas,
+
+00:15:22.400 --> 00:15:23.930
+ngunit sapat na para patayin siya.
+
+00:15:25.600 --> 00:15:26.800
+Alisin ang blockade.
+
+00:15:27.880 --> 00:15:29.200
+O Chi Xia
+
+00:15:29.680 --> 00:15:30.840
+mamatay kasama natin.
+
+00:15:32.160 --> 00:15:32.960
+Kapitan Luo,
+
+00:15:34.080 --> 00:15:35.280
+wag mo akong alalahanin.
+
+00:15:35.960 --> 00:15:37.020
+hulihin muna sila.
+
+00:15:43.000 --> 00:15:43.800
+lahat,
+
+00:15:43.800 --> 00:15:44.520
+tumalikod.
+
+00:15:45.640 --> 00:15:46.760
+Maghanap ng malinaw na shot.
+
+00:15:47.200 --> 00:15:47.880
+Kopyahin mo yan.
+
+00:15:48.800 --> 00:15:49.480
+Paatras!
+
+00:15:50.480 --> 00:15:51.160
+Tumalikod!
+
+00:15:54.640 --> 00:15:56.440
+May dragnet sa labas.
+
+00:15:57.040 --> 00:15:58.960
+Kahit na lumaban ka tulad ng isang sulok na hayop,
+
+00:15:58.960 --> 00:16:00.760
+hindi ka makakatakas sa hustisya.
+
+00:16:02.360 --> 00:16:03.320
+Sa buhay ko,
+
+00:16:04.360 --> 00:16:06.420
+Marami na akong nakitang matalinong bata.
+
+00:16:07.160 --> 00:16:09.080
+Kapag tinatangay ng tubig ang buhangin,
+
+00:16:09.080 --> 00:16:10.520
+ako lang ang nananatiling nakatayo.
+
+00:16:11.800 --> 00:16:12.600
+Chi Xia,
+
+00:16:13.640 --> 00:16:15.440
+maglakas-loob ka bang mamatay kasama ako?
+
+00:16:53.800 --> 00:16:54.800
+naiintindihan ko na ngayon.
+
+00:16:55.040 --> 00:16:56.200
+Hostage ng Old K si Chi Xia
+
+00:16:56.200 --> 00:16:57.560
+para makatakas siya
+
+00:16:57.560 --> 00:16:59.720
+habang pinipilit kaming iabot ang formula.
+
+00:16:59.720 --> 00:17:01.780
+Walang oras para maghanap ng eksperto sa bomba.
+
+00:17:02.000 --> 00:17:02.800
+lahat,
+
+00:17:02.880 --> 00:17:03.810
+manatili sa posisyon
+
+00:17:03.920 --> 00:17:06.180
+at maging handa na palibutan at hulihin siya.
+
+00:17:13.400 --> 00:17:14.119
+Kapitan Luo.
+
+00:17:14.119 --> 00:17:15.250
+Hindi mo kasalanan.
+
+00:17:15.640 --> 00:17:16.520
+Kapitan Luo.
+
+00:17:17.040 --> 00:17:19.040
+Alam kong hindi mo ako bibiguin.
+
+00:17:19.599 --> 00:17:20.680
+Magsimula tayo.
+
+00:17:20.960 --> 00:17:23.599
+Sabihin mo sa akin ang chemical formula
+
+00:17:23.960 --> 00:17:25.690
+kapalit ng buhay ni Chi Xia.
+
+00:17:25.960 --> 00:17:27.490
+Huwag mong sabihing hindi kita binalaan.
+
+00:17:27.720 --> 00:17:29.320
+Kung susubukan mong i-defuse ang bomba,
+
+00:17:30.680 --> 00:17:32.410
+mangolekta ka ng bangkay.
+
+00:17:37.840 --> 00:17:38.640
+Chi Xia.
+
+00:17:39.280 --> 00:17:40.800
+Ito ang pormula ng kemikal.
+
+00:17:40.800 --> 00:17:41.800
+Kabisaduhin ito nang mabilis.
+
+00:17:41.800 --> 00:17:43.000
+Nagtitiwala ako sa iyong alaala.
+
+00:17:55.760 --> 00:17:56.820
+kabisado ko na.
+
+00:18:06.640 --> 00:18:07.440
+K.
+
+00:18:08.000 --> 00:18:09.060
+Makinig ng mabuti.
+
+00:18:09.560 --> 00:18:11.800
+Si Chi Xia lang ang nakakaalam ng formula na ito ngayon.
+
+00:18:11.800 --> 00:18:13.200
+Kung mamatay siya ngayon,
+
+00:18:13.600 --> 00:18:15.640
+kahit na tumakas ka sa pulis,
+
+00:18:16.120 --> 00:18:17.450
+sa ika-8 ng susunod na buwan,
+
+00:18:17.720 --> 00:18:19.520
+mas lalo kang mamamatay sa kalungkutan.
+
+00:18:20.920 --> 00:18:22.320
+Humihingi ka ng kamatayan.
+
+00:18:26.000 --> 00:18:27.120
+Magbibilang ako hanggang sampu.
+
+00:18:27.480 --> 00:18:30.480
+Kung hindi mo ibibigay ang formula sa loob ng sampung segundo,
+
+00:18:30.480 --> 00:18:32.140
+pareho kayong mamamatay.
+
+00:18:32.960 --> 00:18:33.520
+Luo Xun,
+
+00:18:33.520 --> 00:18:34.520
+layuan mo ako.
+
+00:18:37.120 --> 00:18:37.960
+umalis ka na.
+
+00:18:39.760 --> 00:18:40.560
+Siyam.
+
+00:18:47.720 --> 00:18:48.240
+pito.
+
+00:18:55.520 --> 00:18:56.720
+Napaka-idiot mo.
+
+00:18:56.920 --> 00:18:57.720
+lima.
+
+00:19:34.920 --> 00:19:36.360
+Madilim na ngayon.
+
+00:19:36.840 --> 00:19:38.680
+Ang matandang K ay nagtatago sa masukal na kagubatan.
+
+00:19:38.680 --> 00:19:39.800
+Kung may mali,
+
+00:19:39.800 --> 00:19:41.520
+ibabalik natin ang tigre sa bundok.
+
+00:19:41.520 --> 00:19:42.760
+Dapat may backup plan siya.
+
+00:19:42.760 --> 00:19:44.220
+Baka ako rin ang pain.
+
+00:19:44.400 --> 00:19:45.660
+Naglalaro ng double agent.
+
+00:19:45.800 --> 00:19:47.260
+Hindi ka sapat na matalino.
+
+00:19:48.280 --> 00:19:49.840
+Mayroon akong sampung libong paraan
+
+00:19:50.200 --> 00:19:51.200
+para makapagsalita ka.
+

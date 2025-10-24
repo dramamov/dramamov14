@@ -1,0 +1,1297 @@
+WEBVTT
+Kind: captions
+Language: pt-PT
+
+00:00:32.680 --> 00:00:34.880
+Wang Yuya
+
+00:00:55.120 --> 00:00:55.980
+Director Chang
+
+00:00:56.320 --> 00:00:58.400
+Por favor, mire estas dos pizarrones.
+
+00:00:58.400 --> 00:00:59.640
+Esta fila de números en la parte superior
+
+00:00:59.640 --> 00:01:00.920
+fue dejado por el camarada Zhang Jinguo
+
+00:01:00.920 --> 00:01:02.600
+en el texto de la ópera.
+
+00:01:02.680 --> 00:01:03.880
+Muestra las reglas de mapeo.
+
+00:01:03.880 --> 00:01:05.680
+entre números y letras
+
+00:01:05.920 --> 00:01:08.080
+que es parte del código de cifrado.
+
+00:01:08.440 --> 00:01:09.960
+Y esta fila de abajo
+
+00:01:10.200 --> 00:01:11.360
+es la matriz que apareció
+
+00:01:11.360 --> 00:01:12.920
+En memoria de Chi Xia.
+
+00:01:13.520 --> 00:01:14.680
+Con base en nuestro análisis,
+
+00:01:14.680 --> 00:01:16.280
+Podemos sacar una conclusión.
+
+00:01:16.760 --> 00:01:18.920
+Camarada Zhang Jinguo y camarada Fu Gang
+
+00:01:18.920 --> 00:01:20.480
+usó 26 números
+
+00:01:20.720 --> 00:01:21.960
+corresponder con 26
+
+00:01:21.960 --> 00:01:23.880
+letras revueltas
+
+00:01:24.200 --> 00:01:25.120
+En otras palabras,
+
+00:01:25.160 --> 00:01:26.120
+Si podemos encontrar
+
+00:01:26.120 --> 00:01:29.250
+la correlación exacta entre los números y las letras,
+
+00:01:29.400 --> 00:01:32.120
+podemos decodificar el mensaje
+
+00:01:32.200 --> 00:01:34.060
+que el camarada Fu Gang dejó atrás.
+
+00:01:34.920 --> 00:01:36.240
+Esto es fácil de entender.
+
+00:01:36.240 --> 00:01:38.320
+Ocultaron las reglas de cifrado
+
+00:01:38.360 --> 00:01:40.320
+en el guión de la ópera.
+
+00:01:41.000 --> 00:01:43.440
+Pero para los 23 números restantes,
+
+00:01:43.640 --> 00:01:44.840
+¿Cómo lo descubriste?
+
+00:01:44.960 --> 00:01:47.320
+¿A qué letras corresponden?
+
+00:01:47.320 --> 00:01:48.039
+Director Chang,
+
+00:01:48.039 --> 00:01:48.770
+Mira esto.
+
+00:01:49.039 --> 00:01:50.800
+Todo el guión está limpio.
+
+00:01:50.800 --> 00:01:51.600
+Sin embargo,
+
+00:01:51.600 --> 00:01:53.200
+solo estas tres letras
+
+00:01:53.680 --> 00:01:55.080
+están marcados por separado.
+
+00:01:55.720 --> 00:01:57.160
+Porque estas tres letras
+
+00:01:57.160 --> 00:01:58.600
+no puede existir como
+
+00:01:58.600 --> 00:02:00.600
+Letras pinyin iniciales en chino.
+
+00:02:00.720 --> 00:02:02.360
+Y en todo el texto,
+
+00:02:02.360 --> 00:02:03.520
+Sólo hay caracteres chinos,
+
+00:02:03.520 --> 00:02:04.680
+No hay letras en absoluto.
+
+00:02:05.000 --> 00:02:06.040
+Por lo tanto, a la inversa,
+
+00:02:06.160 --> 00:02:07.160
+Esto indica precisamente
+
+00:02:07.160 --> 00:02:09.199
+que del 1 al 23,
+
+00:02:09.400 --> 00:02:11.000
+estos 23 números
+
+00:02:11.000 --> 00:02:12.200
+Cada uno corresponde a letras específicas.
+
+00:02:12.200 --> 00:02:12.520
+23 caracteres chinos con diferentes iniciales YNO
+
+00:02:12.520 --> 00:02:15.250
+23 caracteres chinos con diferentes iniciales.
+
+00:02:16.840 --> 00:02:19.040
+Uso de números para derivar caracteres chinos
+
+00:02:19.040 --> 00:02:20.400
+Se puede hacer de innumerables maneras.
+
+00:02:20.400 --> 00:02:21.200
+Sin embargo,
+
+00:02:21.440 --> 00:02:22.600
+Si solo usamos
+
+00:02:22.600 --> 00:02:24.840
+un solo dígito hasta 23,
+
+00:02:25.000 --> 00:02:28.060
+para corresponder con personajes de diferentes iniciales,
+
+00:02:28.120 --> 00:02:30.320
+Entonces hay posibilidades limitadas.
+
+00:02:30.520 --> 00:02:32.120
+Desde una perspectiva lógica,
+
+00:02:32.120 --> 00:02:34.680
+Si es una regla de cifrado completamente aleatoria,
+
+00:02:34.760 --> 00:02:35.760
+Entonces ambos
+
+00:02:35.760 --> 00:02:38.040
+necesitaría memorizar
+
+00:02:38.400 --> 00:02:39.400
+los 23 números.
+
+00:02:39.960 --> 00:02:41.360
+Esto sería muy arriesgado.
+
+00:02:41.480 --> 00:02:42.720
+Así lo creo
+
+00:02:43.079 --> 00:02:44.880
+que dentro de este texto de ópera,
+
+00:02:44.880 --> 00:02:46.720
+Debe haber algo simple
+
+00:02:46.840 --> 00:02:48.640
+y una regla de cifrado eficiente,
+
+00:02:48.840 --> 00:02:50.640
+permitiendo que ambas personas rápidamente
+
+00:02:50.680 --> 00:02:51.760
+y con precisión
+
+00:02:51.760 --> 00:02:54.320
+cifrar y descifrar información.
+
+00:02:55.680 --> 00:02:57.400
+Por lo tanto, en conclusión,
+
+00:02:58.760 --> 00:03:02.560
+He enumerado todas las letras en orden,
+
+00:03:02.840 --> 00:03:03.840
+escribiendo sus iniciales
+
+00:03:03.840 --> 00:03:05.600
+y las primeras letras también.
+
+00:03:05.600 --> 00:03:06.920
+Pero presta atención aquí.
+
+00:03:06.920 --> 00:03:07.920
+Mata al traidor.
+
+00:03:07.920 --> 00:03:09.480
+Para los caracteres que se repiten,
+
+00:03:09.480 --> 00:03:10.800
+Los esconderemos.
+
+00:03:11.160 --> 00:03:13.840
+Por ejemplo, 'zan' es Z.
+
+00:03:14.600 --> 00:03:16.040
+Este también es Z.
+
+00:03:16.600 --> 00:03:17.760
+Así que no lo necesitamos.
+
+00:03:18.520 --> 00:03:19.560
+'Na' es N.
+
+00:03:19.600 --> 00:03:20.120
+[Jiao Zan (marca Moth, cuerpo
+
+00:03:20.120 --> 00:03:21.280
+Este también es N.
+
+00:03:21.480 --> 00:03:22.940
+Así que tampoco lo necesitamos.
+
+00:03:23.720 --> 00:03:25.280
+Del 1 al 23.
+
+00:03:25.640 --> 00:03:27.560
+Escribiremos estos 23 números
+
+00:03:27.720 --> 00:03:29.760
+usando las letras
+
+00:03:29.800 --> 00:03:30.930
+que han aparecido.
+
+00:03:32.640 --> 00:03:33.400
+Este es el 6.
+
+00:03:34.720 --> 00:03:35.480
+Este es el 7.
+
+00:03:36.160 --> 00:03:38.200
+Lo escribiremos
+
+00:03:40.680 --> 00:03:41.880
+Todos estos números en secuencia.
+
+00:03:41.880 --> 00:03:43.280
+Podemos sacar una conclusión.
+
+00:03:46.079 --> 00:03:47.540
+[Marca de polilla Zhuxianxian]
+
+00:03:50.320 --> 00:03:51.960
+El camarada Zhang Jinguo enfatizó esto.
+
+00:03:51.960 --> 00:03:52.440
+Es 1.
+
+00:03:56.320 --> 00:03:56.960
+Más una pieza.
+
+00:03:56.960 --> 00:03:57.160
+12.
+
+00:03:58.840 --> 00:03:59.760
+14 aparecieron aquí antes.
+
+00:03:59.760 --> 00:04:01.320
+Vamos a escribirlo de nuevo.
+
+00:04:08.200 --> 00:04:09.200
+Así que finalmente,
+
+00:04:09.560 --> 00:04:11.000
+Hemos llegado a un
+
+00:04:12.440 --> 00:04:13.700
+conclusión precisa
+
+00:04:15.160 --> 00:04:16.089
+Director Chang,
+
+00:04:17.600 --> 00:04:19.260
+Por favor denos instrucciones.
+
+00:04:24.360 --> 00:04:25.080
+Luo Xun.
+
+00:04:25.080 --> 00:04:26.320
+No te esperaba
+
+00:04:26.360 --> 00:04:28.440
+Ser tan bueno en descifrar patrones.
+
+00:04:29.120 --> 00:04:30.450
+Verifíquelo inmediatamente.
+
+00:04:30.480 --> 00:04:31.560
+Si seguimos este ejemplo
+
+00:04:31.560 --> 00:04:32.880
+y encontrar evidencia,
+
+00:04:33.000 --> 00:04:33.800
+entonces nosotros
+
+00:04:34.040 --> 00:04:36.080
+realmente ganará la ventaja.
+
+00:04:36.400 --> 00:04:37.200
+Bueno.
+
+00:04:41.880 --> 00:04:42.680
+Coincide.
+
+00:04:42.680 --> 00:04:43.480
+Capitán Luo,
+
+00:04:44.000 --> 00:04:45.040
+Echa un vistazo a esto.
+
+00:04:45.040 --> 00:04:45.840
+Sí.
+
+00:04:47.080 --> 00:04:47.880
+Considerando a Fu Gang
+
+00:04:47.880 --> 00:04:49.360
+libertad de movimiento limitada,
+
+00:04:49.360 --> 00:04:50.720
+Su escondite no debería estar lejos de
+
+00:04:50.720 --> 00:04:51.920
+Pueblo de Lawa.
+
+00:04:51.920 --> 00:04:52.680
+Así que sólo podemos buscar
+
+00:04:52.680 --> 00:04:54.920
+en Mengkunbang cerca de la aldea de Lawa,
+
+00:04:54.920 --> 00:04:56.640
+Ciudad de Dongzhou, en la frontera con Mengkunbang,
+
+00:04:56.640 --> 00:04:57.560
+y la ciudad de Yuhe.
+
+00:04:57.600 --> 00:04:58.800
+La posible ubicación
+
+00:04:58.800 --> 00:05:00.000
+estas ocho letras.
+
+00:05:00.280 --> 00:05:02.400
+Dividido por iniciales y finales,
+
+00:05:02.760 --> 00:05:04.000
+Representan como máximo cuatro caracteres chinos.
+
+00:05:04.000 --> 00:05:05.800
+Intenté buscar ubicaciones de cuatro personajes.
+
+00:05:05.800 --> 00:05:07.280
+pero no encontré ninguno que coincidiera.
+
+00:05:07.280 --> 00:05:08.560
+Luego probé tres personajes,
+
+00:05:08.560 --> 00:05:09.480
+Todavía nada.
+
+00:05:09.480 --> 00:05:10.560
+Finalmente probé dos personajes.
+
+00:05:10.560 --> 00:05:12.160
+y encontró 16 posibilidades.
+
+00:05:12.400 --> 00:05:13.200
+Pero
+
+00:05:14.040 --> 00:05:15.640
+lugares que existen desde hace más de 15 años.
+
+00:05:15.640 --> 00:05:16.320
+Mirar,
+
+00:05:16.320 --> 00:05:17.720
+primera página, cuarta línea,
+
+00:05:19.640 --> 00:05:20.440
+Chaqueta.
+
+00:05:20.560 --> 00:05:21.680
+Hay un cementerio en nuestra ciudad de Dongzhou.
+
+00:05:21.680 --> 00:05:22.940
+llamado cementerio de Jile.
+
+00:05:23.720 --> 00:05:24.720
+En cuanto a esta LIZE,
+
+00:05:24.720 --> 00:05:26.800
+Creo que podría ser el nombre de alguien,
+
+00:05:26.800 --> 00:05:28.130
+Probablemente con el apellido Li.
+
+00:05:28.240 --> 00:05:29.560
+Y este ZE al final,
+
+00:05:30.560 --> 00:05:31.280
+¿Qué tono es exactamente?
+
+00:05:31.280 --> 00:05:32.920
+Necesitamos ir al cementerio a investigar.
+
+00:05:32.920 --> 00:05:35.520
+El objeto podría estar escondido en la tumba de esta persona.
+
+00:05:35.520 --> 00:05:37.360
+o incluso en su urna.
+
+00:06:16.800 --> 00:06:17.960
+¿Cómo estás, Cui?
+
+00:06:19.080 --> 00:06:19.800
+No es posible.
+
+00:06:19.800 --> 00:06:21.060
+No podemos forzar su apertura.
+
+00:06:21.240 --> 00:06:22.920
+Tiene un programa de autodestrucción en su interior.
+
+00:06:22.920 --> 00:06:24.400
+Si intentamos forzarla para abrirla,
+
+00:06:24.520 --> 00:06:27.320
+Destruirá toda la evidencia criminal que haya dentro.
+
+00:06:28.120 --> 00:06:30.720
+Creo que la intención original de su diseño
+
+00:06:30.880 --> 00:06:32.120
+¿Fue eso incluso si un sospechoso
+
+00:06:32.120 --> 00:06:33.480
+se apodera de esta urna,
+
+00:06:33.920 --> 00:06:34.800
+sin la contraseña,
+
+00:06:34.800 --> 00:06:35.800
+forzándolo a abrir
+
+00:06:36.200 --> 00:06:38.730
+Aún así destruiría todas las fórmulas que contiene.
+
+00:06:40.040 --> 00:06:41.159
+Pero el problema es que
+
+00:06:41.400 --> 00:06:43.120
+Según los comentarios de Chi Xia,
+
+00:06:43.120 --> 00:06:44.840
+El viejo K está extremadamente seguro de que
+
+00:06:44.840 --> 00:06:46.600
+mientras pueda encontrar la ubicación,
+
+00:06:46.600 --> 00:06:48.040
+Él puede obtener lo que hay dentro.
+
+00:06:49.720 --> 00:06:51.650
+Ya debe saber la contraseña.
+
+00:06:54.880 --> 00:06:56.120
+¿Puedes fabricar un dispositivo?
+
+00:06:56.120 --> 00:06:57.159
+¿Qué tipo de dispositivo?
+
+00:06:57.159 --> 00:06:57.920
+Uno que se ve exactamente como
+
+00:06:57.920 --> 00:06:59.360
+esta urna,
+
+00:06:59.360 --> 00:07:00.520
+Una réplica perfecta uno a uno.
+
+00:07:00.520 --> 00:07:02.280
+Pero cada vez que alguien ingresa la contraseña,
+
+00:07:02.280 --> 00:07:05.540
+Podemos obtener simultáneamente esa información de contraseña.
+
+00:07:05.960 --> 00:07:06.920
+Debería ser posible.
+
+00:07:06.920 --> 00:07:07.600
+Sin embargo,
+
+00:07:07.600 --> 00:07:08.800
+Necesitaré algo de tiempo.
+
+00:07:09.080 --> 00:07:09.720
+Bien.
+
+00:07:09.720 --> 00:07:10.360
+Gracias por tu arduo trabajo,
+
+00:07:10.360 --> 00:07:11.620
+pero lo necesitamos rápidamente.
+
+00:07:26.280 --> 00:07:27.080
+Ondulado.
+
+00:07:28.360 --> 00:07:29.960
+Puedes contactar con Chi Xia ahora.
+
+00:07:30.160 --> 00:07:31.040
+Dile
+
+00:07:31.360 --> 00:07:33.880
+Ya hemos aplicado el procesamiento técnico a la urna.
+
+00:07:33.880 --> 00:07:35.440
+y establecerá vigilancia aquí.
+
+00:07:35.440 --> 00:07:38.200
+Ahora puede usar la matriz de datos para intercambiarla por Fu Gang.
+
+00:07:38.200 --> 00:07:39.000
+Sí.
+
+00:07:39.960 --> 00:07:42.200
+Asegúrese de que Fu Gang regrese sano y salvo al país.
+
+00:07:42.200 --> 00:07:43.120
+Dile
+
+00:07:43.280 --> 00:07:44.740
+que ella también tenga cuidado.
+
+00:07:45.560 --> 00:07:46.360
+Bueno.
+
+00:08:17.760 --> 00:08:18.480
+Capitán Luo,
+
+00:08:18.480 --> 00:08:19.200
+Soy yo.
+
+00:08:20.280 --> 00:08:21.640
+El viejo K volverá mañana.
+
+00:08:21.640 --> 00:08:23.160
+El horario de operación es a las 6:00 p.m.
+
+00:08:23.160 --> 00:08:24.040
+Está usando una dirección falsa
+
+00:08:24.040 --> 00:08:25.700
+para probar si realmente he cambiado.
+
+00:08:26.040 --> 00:08:28.000
+Así que envíen a su gente al Museo Lizang.
+
+00:08:28.000 --> 00:08:29.040
+para montarle un espectáculo.
+
+00:08:29.040 --> 00:08:30.200
+Hazle creer que el cementerio de Jile
+
+00:08:30.200 --> 00:08:31.760
+No ha sido descubierto por la policía
+
+00:08:31.760 --> 00:08:33.000
+y creo que todavía es seguro.
+
+00:08:33.000 --> 00:08:33.720
+No.
+
+00:08:34.320 --> 00:08:35.880
+De esta manera seguramente quedarás expuesto.
+
+00:08:35.880 --> 00:08:37.520
+¿Has considerado tu propia situación?
+
+00:08:37.520 --> 00:08:38.720
+Luo Xun, escúchame.
+
+00:08:38.840 --> 00:08:40.840
+No estaré con Old K mañana.
+
+00:08:40.880 --> 00:08:42.539
+Él me dio otra tarea.
+
+00:08:42.760 --> 00:08:44.080
+También a las 6 pm.
+
+00:08:44.360 --> 00:08:46.400
+Él quiere que siga a la gente del Grupo Kete.
+
+00:08:46.400 --> 00:08:48.260
+al Hotel Lilong en la frontera.
+
+00:08:48.320 --> 00:08:50.050
+Negociando con un farmacéutico
+
+00:08:50.280 --> 00:08:51.720
+que no puede entregar la mercancía antes del día 8 del mes próximo.
+
+00:08:51.720 --> 00:08:53.160
+Él también está en una situación sin salida.
+
+00:08:53.160 --> 00:08:55.080
+No se atrevería a ofender a la División Especial en este momento.
+
+00:08:55.080 --> 00:08:56.040
+Así que cuando lo arrestamos
+
+00:08:56.040 --> 00:08:57.500
+en el Cementerio del Paraíso,
+
+00:08:57.520 --> 00:08:58.960
+No tendrás que preocuparte
+
+00:08:58.960 --> 00:09:00.360
+sobre mi presencia allí.
+
+00:09:00.720 --> 00:09:03.120
+Simplemente configure la operación con confianza.
+
+00:09:03.320 --> 00:09:05.180
+Sé lo que te preocupa.
+
+00:09:06.040 --> 00:09:07.040
+En el hotel,
+
+00:09:08.120 --> 00:09:11.200
+El viejo K no tiene forma de controlar a la gente del Grupo Kote.
+
+00:09:11.200 --> 00:09:12.530
+Así que no te preocupes por mí.
+
+00:09:14.680 --> 00:09:15.480
+Chi Xia.
+
+00:09:16.360 --> 00:09:17.680
+Mañana te enfrentarás a
+
+00:09:17.680 --> 00:09:20.520
+Un grupo de criminales desesperados que no tienen nada que perder.
+
+00:09:20.520 --> 00:09:21.320
+Está seguro,
+
+00:09:21.520 --> 00:09:24.240
+Definitivamente estableceré una operación en el Hotel Lilong para apoyarte.
+
+00:09:24.240 --> 00:09:25.320
+No intentes ser un héroe.
+
+00:09:25.320 --> 00:09:26.520
+Debes mantenerte a salvo.
+
+00:09:26.880 --> 00:09:28.280
+Si perdemos al pueblo Kote,
+
+00:09:28.280 --> 00:09:29.520
+Puedo atraparlos de nuevo.
+
+00:09:29.520 --> 00:09:31.240
+Pero mañana necesito que vuelvas a casa sano y salvo.
+
+00:09:31.240 --> 00:09:32.120
+¿Me oyes?
+
+00:09:38.280 --> 00:09:39.400
+Entiendo.
+
+00:09:43.400 --> 00:09:44.320
+Esta operación
+
+00:09:44.680 --> 00:09:47.360
+es altamente priorizado por el departamento provincial.
+
+00:09:47.360 --> 00:09:49.490
+La organización criminal liderada por Old K
+
+00:09:49.600 --> 00:09:51.800
+Está arraigado en Dongzhou desde hace años.
+
+00:09:51.800 --> 00:09:53.060
+Su poder es inmenso
+
+00:09:53.200 --> 00:09:54.640
+y su alcance es extenso,
+
+00:09:54.640 --> 00:09:56.040
+Ninguno de los dos puede subestimarse.
+
+00:09:56.040 --> 00:09:59.000
+Ahora incluso han entrado en el mercado de las drogas,
+
+00:09:59.200 --> 00:10:01.440
+representando una amenaza grave
+
+00:10:01.920 --> 00:10:04.480
+a la vida y a la propiedad de las personas.
+
+00:10:04.480 --> 00:10:05.280
+Por lo tanto,
+
+00:10:05.560 --> 00:10:09.120
+Esta operación debe tener éxito de un solo golpe,
+
+00:10:09.480 --> 00:10:13.200
+y no podemos permitirle que regrese a la aldea de Lawa.
+
+00:10:14.080 --> 00:10:14.880
+Comprendido.
+
+00:10:15.040 --> 00:10:17.100
+Tenga la seguridad, Director Qiao.
+
+00:10:20.320 --> 00:10:21.120
+Bien.
+
+00:10:21.240 --> 00:10:22.800
+Ahora, las tareas.
+
+00:10:22.800 --> 00:10:23.560
+Cual,
+
+00:10:24.280 --> 00:10:25.840
+liderar el equipo de seguridad
+
+00:10:25.840 --> 00:10:28.300
+para establecer vigilancia en el Museo Lizang.
+
+00:10:28.760 --> 00:10:29.760
+No seas demasiado discreto
+
+00:10:29.760 --> 00:10:30.640
+Asegúrate de que te noten.
+
+00:10:30.640 --> 00:10:31.370
+Comprendido.
+
+00:10:31.800 --> 00:10:32.600
+Lin Wenjue,
+
+00:10:33.200 --> 00:10:35.680
+Lleva a tu equipo al Hotel Lilong
+
+00:10:35.680 --> 00:10:37.600
+para apoyar a Chi Xia.
+
+00:10:37.600 --> 00:10:38.480
+Lleva más gente contigo
+
+00:10:38.480 --> 00:10:39.210
+Comprendido.
+
+00:10:40.760 --> 00:10:41.560
+Luo Xu,
+
+00:10:42.320 --> 00:10:43.850
+El arresto en el cementerio de Jile
+
+00:10:44.360 --> 00:10:46.560
+será completamente tu responsabilidad.
+
+00:10:47.880 --> 00:10:49.720
+Me aseguraré de que la misión se cumpla.
+
+00:10:49.720 --> 00:10:50.520
+Camaradas,
+
+00:10:50.720 --> 00:10:53.720
+La organización criminal extranjera de Lawa Village
+
+00:10:53.720 --> 00:10:55.640
+Ya se ha infiltrado en Dongzhou.
+
+00:10:55.640 --> 00:10:57.680
+El líder de la organización, Huang Weisheng,
+
+00:10:57.680 --> 00:10:59.240
+No se detendrá ante nada
+
+00:10:59.400 --> 00:11:00.800
+para lograr sus objetivos.
+
+00:11:01.120 --> 00:11:02.360
+En los últimos seis meses,
+
+00:11:02.360 --> 00:11:03.960
+varios asesinatos en serie
+
+00:11:04.040 --> 00:11:06.400
+han aterrorizado a la gente de Dongzhou.
+
+00:11:06.640 --> 00:11:07.480
+Y ahora,
+
+00:11:07.920 --> 00:11:11.920
+Huang Weisheng ha puesto un pie en suelo Dongzhou.
+
+00:11:12.040 --> 00:11:13.160
+En esta operación,
+
+00:11:13.440 --> 00:11:15.720
+Debemos atraparlo con las manos en la masa.
+
+00:11:16.960 --> 00:11:19.040
+Es hora de liberar a nuestro pueblo.
+
+00:11:19.120 --> 00:11:21.200
+de su miedo.
+
+00:11:21.520 --> 00:11:22.440
+Debemos dejarlos
+
+00:11:22.680 --> 00:11:26.240
+vivir en una tierra protegida por la ley.
+
+00:11:26.560 --> 00:11:27.760
+Nuestro país
+
+00:11:27.920 --> 00:11:29.000
+No lo toleraré
+
+00:11:29.000 --> 00:11:31.560
+infiltración por organizaciones criminales extranjeras.
+
+00:11:31.560 --> 00:11:32.490
+Por nuestro país,
+
+00:11:32.680 --> 00:11:33.640
+para nuestra gente,
+
+00:11:34.120 --> 00:11:36.180
+y por el honor de la fuerza policial,
+
+00:11:36.600 --> 00:11:39.680
+Debemos eliminar este cáncer
+
+00:11:40.160 --> 00:11:41.690
+y erradicarlo por completo.
+
+00:11:42.360 --> 00:11:43.160
+¿Comprendido?
+
+00:11:43.240 --> 00:11:44.040
+Comprendido.
+
+00:11:49.440 --> 00:11:50.200
+Luo Xun.
+
+00:11:50.200 --> 00:11:50.840
+Sí, señor.
+
+00:11:52.240 --> 00:11:53.320
+Para esta operación,
+
+00:11:53.320 --> 00:11:54.680
+Estarás al mando total.
+
+00:11:54.680 --> 00:11:55.440
+Sí, señor.
+
+00:12:01.200 --> 00:12:02.000
+Vamos.
+
+00:12:02.000 --> 00:12:02.760
+Sí.
+
+00:12:35.880 --> 00:12:36.680
+Capitán Luo,
+
+00:12:37.160 --> 00:12:39.120
+Han pasado 15 minutos de la hora acordada.
+
+00:12:39.120 --> 00:12:40.200
+No hay señales de Chi Xia,
+
+00:12:40.200 --> 00:12:42.330
+Y tampoco ha aparecido ningún farmacéutico.
+
+00:12:44.560 --> 00:12:45.490
+Cometí un error.
+
+00:12:46.200 --> 00:12:47.760
+El Hotel Lilong era sólo una fachada.
+
+00:12:47.760 --> 00:12:49.840
+Chi Xia debe estar con el Viejo K ahora.
+
+00:12:50.200 --> 00:12:51.000
+Sí,
+
+00:12:51.120 --> 00:12:52.400
+Saquen a todos de allí ahora.
+
+00:12:52.400 --> 00:12:52.720
+Comprendido.
+
+00:12:52.720 --> 00:12:53.400
+Entiendo.
+
+00:12:54.080 --> 00:12:54.840
+Todos,
+
+00:12:54.840 --> 00:12:55.640
+¡Retroceda ahora!
+
+00:12:59.480 --> 00:13:00.280
+Unidad móvil,
+
+00:13:00.400 --> 00:13:01.480
+apoyar.
+
+00:13:01.760 --> 00:13:02.520
+Copia eso.
+
+00:13:11.960 --> 00:13:13.040
+Qu Bai es caro.
+
+00:13:22.640 --> 00:13:23.440
+chi xia
+
+00:13:27.920 --> 00:13:29.000
+Todas las unidades,
+
+00:13:29.040 --> 00:13:29.970
+espera mis ordenes
+
+00:13:30.280 --> 00:13:32.080
+Prepárese para rodear y arrestar al objetivo.
+
+00:13:32.080 --> 00:13:32.760
+Equipo Uno, copia.
+
+00:13:32.760 --> 00:13:33.620
+Equipo dos, copia.
+
+00:13:40.400 --> 00:13:42.320
+Equipo de intercepción de carreteras de montaña en posición.
+
+00:13:42.320 --> 00:13:43.160
+Bloquear todos los caminos
+
+00:13:43.160 --> 00:13:44.640
+y detener todos los vehículos que pasen.
+
+00:13:44.640 --> 00:13:45.240
+Copia eso.
+
+00:13:48.800 --> 00:13:50.040
+La urna está aquí.
+
+00:13:56.600 --> 00:13:58.060
+Asegure el bloqueo con contraseña.
+
+00:13:58.200 --> 00:13:58.800
+Entiendo.
+
+00:14:18.320 --> 00:14:19.080
+Hecho.
+
+00:14:26.160 --> 00:14:26.840
+Recopilar evidencia.
+
+00:14:26.840 --> 00:14:27.480
+Entiendo.
+
+00:14:34.960 --> 00:14:35.760
+Capitán Luo.
+
+00:14:37.920 --> 00:14:38.440
+Bueno.
+
+00:14:46.280 --> 00:14:47.040
+Todos,
+
+00:14:47.040 --> 00:14:48.240
+entrar y rodear.
+
+00:14:48.880 --> 00:14:50.210
+Equipo dos, tome la izquierda.
+
+00:14:52.200 --> 00:14:53.460
+Equipo de asalto, ¡adelante!
+
+00:14:55.160 --> 00:14:56.720
+El equipo trasero está en posición.
+
+00:14:58.440 --> 00:15:00.040
+Equipo uno, salte hacia adelante.
+
+00:15:01.200 --> 00:15:01.860
+No te muevas
+
+00:15:02.360 --> 00:15:02.720
+¡Congelar!
+
+00:15:02.720 --> 00:15:03.200
+¡Policía!
+
+00:15:03.200 --> 00:15:03.800
+¡No te muevas!
+
+00:15:03.800 --> 00:15:04.520
+¡Policía!
+
+00:15:04.960 --> 00:15:05.420
+¡Congelar!
+
+00:15:06.360 --> 00:15:08.160
+¡Dejad vuestras armas!
+
+00:15:08.240 --> 00:15:09.240
+Bajen todas las armas.
+
+00:15:10.240 --> 00:15:11.040
+Nadie se mueva.
+
+00:15:13.400 --> 00:15:15.400
+Esta es una bomba accionada por presión.
+
+00:15:15.640 --> 00:15:17.840
+Si cae al suelo aunque sea levemente,
+
+00:15:18.360 --> 00:15:19.680
+La bomba en Chi Xia
+
+00:15:19.680 --> 00:15:21.000
+detonará inmediatamente.
+
+00:15:21.000 --> 00:15:22.400
+La bomba no es potente,
+
+00:15:22.400 --> 00:15:23.930
+pero es suficiente para matarla.
+
+00:15:25.600 --> 00:15:26.800
+Quitar el bloqueo.
+
+00:15:27.880 --> 00:15:29.200
+O Chi Xia
+
+00:15:29.680 --> 00:15:30.840
+muere con nosotros.
+
+00:15:32.160 --> 00:15:32.960
+Capitán Luo,
+
+00:15:34.080 --> 00:15:35.280
+No te preocupes por mí.
+
+00:15:35.960 --> 00:15:37.020
+Arréstenlos primero.
+
+00:15:43.000 --> 00:15:43.800
+Todos,
+
+00:15:43.800 --> 00:15:44.520
+retroceder.
+
+00:15:45.640 --> 00:15:46.760
+Encuentra un tiro claro.
+
+00:15:47.200 --> 00:15:47.880
+Copia eso.
+
+00:15:48.800 --> 00:15:49.480
+¡Dar marcha atrás!
+
+00:15:50.480 --> 00:15:51.160
+¡Paso atrás!
+
+00:15:54.640 --> 00:15:56.440
+Hay una redada afuera.
+
+00:15:57.040 --> 00:15:58.960
+Aunque luches como una bestia acorralada,
+
+00:15:58.960 --> 00:16:00.760
+No puedes escapar de la justicia.
+
+00:16:02.360 --> 00:16:03.320
+En mi vida,
+
+00:16:04.360 --> 00:16:06.420
+He visto demasiados niños sabelotodo.
+
+00:16:07.160 --> 00:16:09.080
+Cuando la marea arrastra la arena,
+
+00:16:09.080 --> 00:16:10.520
+Sólo yo permanezco en pie.
+
+00:16:11.800 --> 00:16:12.600
+Chi Xia,
+
+00:16:13.640 --> 00:16:15.440
+¿Te atreves a morir conmigo?
+
+00:16:53.800 --> 00:16:54.800
+Ahora lo entiendo.
+
+00:16:55.040 --> 00:16:56.200
+El viejo K tiene a Chi Xia como rehén
+
+00:16:56.200 --> 00:16:57.560
+para poder escapar
+
+00:16:57.560 --> 00:16:59.720
+mientras nos obligan a entregar la fórmula.
+
+00:16:59.720 --> 00:17:01.780
+No hay tiempo para encontrar un experto en bombas.
+
+00:17:02.000 --> 00:17:02.800
+Todos,
+
+00:17:02.880 --> 00:17:03.810
+permanecer en posición
+
+00:17:03.920 --> 00:17:06.180
+y estar preparados para rodearlo y capturarlo.
+
+00:17:13.400 --> 00:17:14.119
+Capitán Luo.
+
+00:17:14.119 --> 00:17:15.250
+No es tu culpa
+
+00:17:15.640 --> 00:17:16.520
+Capitán Luo.
+
+00:17:17.040 --> 00:17:19.040
+Sabía que no me decepcionarías.
+
+00:17:19.599 --> 00:17:20.680
+Vamos a empezar.
+
+00:17:20.960 --> 00:17:23.599
+Dime la fórmula química
+
+00:17:23.960 --> 00:17:25.690
+a cambio de la vida de Chi Xia.
+
+00:17:25.960 --> 00:17:27.490
+No digas que no te advertí.
+
+00:17:27.720 --> 00:17:29.320
+Si intentas desactivar la bomba,
+
+00:17:30.680 --> 00:17:32.410
+Estarás recogiendo un cadáver.
+
+00:17:37.840 --> 00:17:38.640
+Chi Xia.
+
+00:17:39.280 --> 00:17:40.800
+Esta es la fórmula química.
+
+00:17:40.800 --> 00:17:41.800
+Memorízalo rápidamente.
+
+00:17:41.800 --> 00:17:43.000
+Confío en tu memoria.
+
+00:17:55.760 --> 00:17:56.820
+Lo he memorizado.
+
+00:18:06.640 --> 00:18:07.440
+K.
+
+00:18:08.000 --> 00:18:09.060
+Escuche atentamente.
+
+00:18:09.560 --> 00:18:11.800
+Chi Xia es la única que conoce esta fórmula ahora.
+
+00:18:11.800 --> 00:18:13.200
+Si ella muere hoy,
+
+00:18:13.600 --> 00:18:15.640
+Incluso si escapas de la policía,
+
+00:18:16.120 --> 00:18:17.450
+el día 8 del próximo mes,
+
+00:18:17.720 --> 00:18:19.520
+Morirás aún más miserablemente.
+
+00:18:20.920 --> 00:18:22.320
+Estás pidiendo la muerte.
+
+00:18:26.000 --> 00:18:27.120
+Contaré hasta diez.
+
+00:18:27.480 --> 00:18:30.480
+Si no entregas la fórmula en diez segundos,
+
+00:18:30.480 --> 00:18:32.140
+Ambos morirán juntos.
+
+00:18:32.960 --> 00:18:33.520
+Luo Xu,
+
+00:18:33.520 --> 00:18:34.520
+Mantente alejado de mí.
+
+00:18:37.120 --> 00:18:37.960
+Irse.
+
+00:18:39.760 --> 00:18:40.560
+Nueve.
+
+00:18:47.720 --> 00:18:48.240
+Siete.
+
+00:18:55.520 --> 00:18:56.720
+Eres un idiota.
+
+00:18:56.920 --> 00:18:57.720
+Cinco.
+
+00:19:34.920 --> 00:19:36.360
+Ya está oscuro ahora.
+
+00:19:36.840 --> 00:19:38.680
+El viejo K se esconde en el denso bosque.
+
+00:19:38.680 --> 00:19:39.800
+Si algo sale mal,
+
+00:19:39.800 --> 00:19:41.520
+Dejaremos que el tigre regrese a la montaña.
+
+00:19:41.520 --> 00:19:42.760
+Debe tener un plan de respaldo.
+
+00:19:42.760 --> 00:19:44.220
+También podría ser el cebo.
+
+00:19:44.400 --> 00:19:45.660
+Jugando al agente doble.
+
+00:19:45.800 --> 00:19:47.260
+No eres lo suficientemente inteligente
+
+00:19:48.280 --> 00:19:49.840
+Tengo diez mil maneras
+
+00:19:50.200 --> 00:19:51.200
+Para hacerte hablar.
+

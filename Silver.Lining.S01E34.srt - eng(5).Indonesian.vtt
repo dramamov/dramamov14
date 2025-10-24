@@ -1,0 +1,1297 @@
+WEBVTT
+Kind: captions
+Language: pt-PT
+
+00:00:32.680 --> 00:00:34.880
+Wang Yuya
+
+00:00:55.120 --> 00:00:55.980
+Direktur Chang
+
+00:00:56.320 --> 00:00:58.400
+Silakan lihat kedua papan tulis ini.
+
+00:00:58.400 --> 00:00:59.640
+Baris angka di atas
+
+00:00:59.640 --> 00:01:00.920
+ditinggalkan oleh Kamerad Zhang Jinguo
+
+00:01:00.920 --> 00:01:02.600
+dalam teks opera.
+
+00:01:02.680 --> 00:01:03.880
+Ini menunjukkan aturan pemetaan
+
+00:01:03.880 --> 00:01:05.680
+antara angka dan huruf
+
+00:01:05.920 --> 00:01:08.080
+yang merupakan bagian dari kode enkripsi.
+
+00:01:08.440 --> 00:01:09.960
+Dan baris di bawah ini
+
+00:01:10.200 --> 00:01:11.360
+adalah array yang muncul
+
+00:01:11.360 --> 00:01:12.920
+untuk mengenang Chi Xia.
+
+00:01:13.520 --> 00:01:14.680
+Berdasarkan analisis kami,
+
+00:01:14.680 --> 00:01:16.280
+kita bisa menarik suatu kesimpulan.
+
+00:01:16.760 --> 00:01:18.920
+Kamerad Zhang Jinguo dan Kamerad Fu Gang
+
+00:01:18.920 --> 00:01:20.480
+menggunakan 26 angka
+
+00:01:20.720 --> 00:01:21.960
+sesuai dengan 26
+
+00:01:21.960 --> 00:01:23.880
+huruf-huruf yang diacak.
+
+00:01:24.200 --> 00:01:25.120
+Dengan kata lain,
+
+00:01:25.160 --> 00:01:26.120
+jika kita bisa menemukan
+
+00:01:26.120 --> 00:01:29.250
+korelasi yang tepat antara angka dan huruf,
+
+00:01:29.400 --> 00:01:32.120
+kita bisa memecahkan kode pesannya
+
+00:01:32.200 --> 00:01:34.060
+yang ditinggalkan Kawan Fu Gang.
+
+00:01:34.920 --> 00:01:36.240
+Ini mudah dipahami.
+
+00:01:36.240 --> 00:01:38.320
+Mereka menyembunyikan aturan enkripsi
+
+00:01:38.360 --> 00:01:40.320
+dalam naskah opera.
+
+00:01:41.000 --> 00:01:43.440
+Namun untuk 23 angka sisanya,
+
+00:01:43.640 --> 00:01:44.840
+bagaimana kamu mengetahuinya
+
+00:01:44.960 --> 00:01:47.320
+huruf apa saja yang sesuai dengannya?
+
+00:01:47.320 --> 00:01:48.039
+Direktur Chang,
+
+00:01:48.039 --> 00:01:48.770
+Lihat ini.
+
+00:01:49.039 --> 00:01:50.800
+Seluruh naskahnya bersih.
+
+00:01:50.800 --> 00:01:51.600
+Namun,
+
+00:01:51.600 --> 00:01:53.200
+hanya tiga huruf ini
+
+00:01:53.680 --> 00:01:55.080
+ditandai secara terpisah.
+
+00:01:55.720 --> 00:01:57.160
+Karena ketiga huruf ini
+
+00:01:57.160 --> 00:01:58.600
+tidak bisa ada sebagai
+
+00:01:58.600 --> 00:02:00.600
+huruf pinyin awal dalam bahasa Mandarin.
+
+00:02:00.720 --> 00:02:02.360
+Dan di seluruh teks,
+
+00:02:02.360 --> 00:02:03.520
+hanya ada karakter Cina,
+
+00:02:03.520 --> 00:02:04.680
+tidak ada huruf sama sekali.
+
+00:02:05.000 --> 00:02:06.040
+Jadi sebaliknya,
+
+00:02:06.160 --> 00:02:07.160
+ini justru menunjukkan
+
+00:02:07.160 --> 00:02:09.199
+bahwa dari 1 sampai 23,
+
+00:02:09.400 --> 00:02:11.000
+23 angka ini
+
+00:02:11.000 --> 00:02:12.200
+masing-masing sesuai dengan huruf tertentu.
+
+00:02:12.200 --> 00:02:12.520
+23 karakter Cina dengan inisial berbeda YNO
+
+00:02:12.520 --> 00:02:15.250
+23 karakter Cina dengan inisial yang berbeda.
+
+00:02:16.840 --> 00:02:19.040
+Menggunakan angka untuk mendapatkan karakter Cina
+
+00:02:19.040 --> 00:02:20.400
+dapat dilakukan dengan banyak cara.
+
+00:02:20.400 --> 00:02:21.200
+Namun,
+
+00:02:21.440 --> 00:02:22.600
+jika kita hanya menggunakan
+
+00:02:22.600 --> 00:02:24.840
+satu digit hingga 23,
+
+00:02:25.000 --> 00:02:28.060
+untuk berkorespondensi dengan karakter dengan inisial yang berbeda,
+
+00:02:28.120 --> 00:02:30.320
+maka kemungkinannya terbatas.
+
+00:02:30.520 --> 00:02:32.120
+Dari sudut pandang logis,
+
+00:02:32.120 --> 00:02:34.680
+jika itu adalah aturan enkripsi yang sepenuhnya acak,
+
+00:02:34.760 --> 00:02:35.760
+lalu keduanya
+
+00:02:35.760 --> 00:02:38.040
+perlu menghafal
+
+00:02:38.400 --> 00:02:39.400
+semua 23 angka.
+
+00:02:39.960 --> 00:02:41.360
+Ini akan sangat berisiko.
+
+00:02:41.480 --> 00:02:42.720
+Jadi aku percaya
+
+00:02:43.079 --> 00:02:44.880
+bahwa dalam teks opera ini,
+
+00:02:44.880 --> 00:02:46.720
+harus ada yang sederhana
+
+00:02:46.840 --> 00:02:48.640
+dan aturan enkripsi yang efisien,
+
+00:02:48.840 --> 00:02:50.640
+memungkinkan kedua orang untuk dengan cepat
+
+00:02:50.680 --> 00:02:51.760
+dan akurat
+
+00:02:51.760 --> 00:02:54.320
+mengenkripsi dan mendekripsi informasi.
+
+00:02:55.680 --> 00:02:57.400
+Oleh karena itu, sebagai kesimpulan,
+
+00:02:58.760 --> 00:03:02.560
+Saya telah mencantumkan semua liriknya secara berurutan,
+
+00:03:02.840 --> 00:03:03.840
+menuliskan inisial mereka
+
+00:03:03.840 --> 00:03:05.600
+dan huruf pertama juga.
+
+00:03:05.600 --> 00:03:06.920
+Namun perhatikan di sini.
+
+00:03:06.920 --> 00:03:07.920
+Bunuh pengkhianat itu.
+
+00:03:07.920 --> 00:03:09.480
+Untuk karakter yang diulang,
+
+00:03:09.480 --> 00:03:10.800
+kami akan menyembunyikannya.
+
+00:03:11.160 --> 00:03:13.840
+Misalnya, 'zan' adalah Z.
+
+00:03:14.600 --> 00:03:16.040
+Ini juga Z.
+
+00:03:16.600 --> 00:03:17.760
+Jadi kita tidak membutuhkannya.
+
+00:03:18.520 --> 00:03:19.560
+'Na' adalah N.
+
+00:03:19.600 --> 00:03:20.120
+[Jiao Zan (merek ngengat, badan
+
+00:03:20.120 --> 00:03:21.280
+Ini juga N.
+
+00:03:21.480 --> 00:03:22.940
+Jadi kita juga tidak membutuhkannya.
+
+00:03:23.720 --> 00:03:25.280
+Dari 1 sampai 23.
+
+00:03:25.640 --> 00:03:27.560
+Kita akan menuliskan 23 angka ini
+
+00:03:27.720 --> 00:03:29.760
+menggunakan huruf
+
+00:03:29.800 --> 00:03:30.930
+yang telah muncul.
+
+00:03:32.640 --> 00:03:33.400
+Ini adalah 6.
+
+00:03:34.720 --> 00:03:35.480
+Ini adalah 7.
+
+00:03:36.160 --> 00:03:38.200
+Kami akan menuliskannya
+
+00:03:40.680 --> 00:03:41.880
+semua angka ini berurutan.
+
+00:03:41.880 --> 00:03:43.280
+Kita bisa menarik kesimpulan.
+
+00:03:46.079 --> 00:03:47.540
+[Merek Ngengat Zhuxianxian]
+
+00:03:50.320 --> 00:03:51.960
+Kamerad Zhang Jinguo menekankan hal ini.
+
+00:03:51.960 --> 00:03:52.440
+Ini jam 1.
+
+00:03:56.320 --> 00:03:56.960
+Ditambah satu potong.
+
+00:03:56.960 --> 00:03:57.160
+12.
+
+00:03:58.840 --> 00:03:59.760
+14 muncul di sini sebelumnya.
+
+00:03:59.760 --> 00:04:01.320
+Ayo kita tulis lagi.
+
+00:04:08.200 --> 00:04:09.200
+Jadi akhirnya,
+
+00:04:09.560 --> 00:04:11.000
+kita sudah mencapai
+
+00:04:12.440 --> 00:04:13.700
+kesimpulan yang akurat.
+
+00:04:15.160 --> 00:04:16.089
+Direktur Chang,
+
+00:04:17.600 --> 00:04:19.260
+tolong beri kami petunjuk.
+
+00:04:24.360 --> 00:04:25.080
+Luo Xun.
+
+00:04:25.080 --> 00:04:26.320
+Aku tidak mengharapkanmu
+
+00:04:26.360 --> 00:04:28.440
+sangat pandai memecahkan pola.
+
+00:04:29.120 --> 00:04:30.450
+Verifikasi segera.
+
+00:04:30.480 --> 00:04:31.560
+Jika kita mengikuti petunjuk ini
+
+00:04:31.560 --> 00:04:32.880
+dan menemukan bukti,
+
+00:04:33.000 --> 00:04:33.800
+lalu kita
+
+00:04:34.040 --> 00:04:36.080
+akan benar-benar menang.
+
+00:04:36.400 --> 00:04:37.200
+Oke.
+
+00:04:41.880 --> 00:04:42.680
+Itu cocok.
+
+00:04:42.680 --> 00:04:43.480
+Kapten Luo,
+
+00:04:44.000 --> 00:04:45.040
+lihatlah ini.
+
+00:04:45.040 --> 00:04:45.840
+Ya.
+
+00:04:47.080 --> 00:04:47.880
+Mengingat Fu Gang
+
+00:04:47.880 --> 00:04:49.360
+kebebasan bergerak terbatas,
+
+00:04:49.360 --> 00:04:50.720
+tempat persembunyiannya seharusnya tidak jauh dari
+
+00:04:50.720 --> 00:04:51.920
+Lawa Village.
+
+00:04:51.920 --> 00:04:52.680
+Jadi kita hanya bisa mencari
+
+00:04:52.680 --> 00:04:54.920
+di Mengkunbang dekat Desa Lawa,
+
+00:04:54.920 --> 00:04:56.640
+Dongzhou City bordering Mengkunbang,
+
+00:04:56.640 --> 00:04:57.560
+and Yuhe City.
+
+00:04:57.600 --> 00:04:58.800
+Lokasi yang memungkinkan
+
+00:04:58.800 --> 00:05:00.000
+delapan huruf ini.
+
+00:05:00.280 --> 00:05:02.400
+Dibagi dengan inisial dan final,
+
+00:05:02.760 --> 00:05:04.000
+mereka mewakili paling banyak empat karakter Cina.
+
+00:05:04.000 --> 00:05:05.800
+Saya mencoba mencari lokasi empat karakter
+
+00:05:05.800 --> 00:05:07.280
+tetapi tidak menemukan yang cocok.
+
+00:05:07.280 --> 00:05:08.560
+Lalu saya mencoba tiga karakter,
+
+00:05:08.560 --> 00:05:09.480
+masih belum ada apa-apa.
+
+00:05:09.480 --> 00:05:10.560
+Akhirnya saya mencoba dua karakter
+
+00:05:10.560 --> 00:05:12.160
+dan menemukan 16 kemungkinan.
+
+00:05:12.400 --> 00:05:13.200
+Tetapi
+
+00:05:14.040 --> 00:05:15.640
+lokasi yang telah ada selama lebih dari 15 tahun.
+
+00:05:15.640 --> 00:05:16.320
+Lihat,
+
+00:05:16.320 --> 00:05:17.720
+halaman pertama, baris keempat,
+
+00:05:19.640 --> 00:05:20.440
+Jaket.
+
+00:05:20.560 --> 00:05:21.680
+Ada sebuah pemakaman di kota Dongzhou kami
+
+00:05:21.680 --> 00:05:22.940
+disebut Pemakaman Jile.
+
+00:05:23.720 --> 00:05:24.720
+Adapun LIZE ini,
+
+00:05:24.720 --> 00:05:26.800
+Menurutku itu bisa jadi nama seseorang,
+
+00:05:26.800 --> 00:05:28.130
+kemungkinan bermarga Li.
+
+00:05:28.240 --> 00:05:29.560
+Dan ZE ini di akhir,
+
+00:05:30.560 --> 00:05:31.280
+nada yang mana tepatnya,
+
+00:05:31.280 --> 00:05:32.920
+Kita perlu pergi ke pemakaman untuk menyelidiki.
+
+00:05:32.920 --> 00:05:35.520
+Barang itu mungkin disembunyikan di kuburan orang ini,
+
+00:05:35.520 --> 00:05:37.360
+atau bahkan di dalam guci mereka.
+
+00:06:16.800 --> 00:06:17.960
+Apa kabar, Cui?
+
+00:06:19.080 --> 00:06:19.800
+Itu tidak mungkin.
+
+00:06:19.800 --> 00:06:21.060
+Kita tidak bisa memaksanya untuk terbuka.
+
+00:06:21.240 --> 00:06:22.920
+Ia memiliki program penghancuran diri di dalamnya.
+
+00:06:22.920 --> 00:06:24.400
+Jika kita mencoba untuk memaksanya terbuka,
+
+00:06:24.520 --> 00:06:27.320
+itu akan menghancurkan semua bukti kriminal di dalamnya.
+
+00:06:28.120 --> 00:06:30.720
+Saya percaya tujuan awal dari desainnya
+
+00:06:30.880 --> 00:06:32.120
+adalah bahwa bahkan jika seorang tersangka
+
+00:06:32.120 --> 00:06:33.480
+mendapatkan guci ini,
+
+00:06:33.920 --> 00:06:34.800
+tanpa kata sandi,
+
+00:06:34.800 --> 00:06:35.800
+memaksanya terbuka
+
+00:06:36.200 --> 00:06:38.730
+akan tetap menghancurkan semua rumus di dalamnya.
+
+00:06:40.040 --> 00:06:41.159
+Tapi masalahnya adalah,
+
+00:06:41.400 --> 00:06:43.120
+menurut umpan balik Chi Xia,
+
+00:06:43.120 --> 00:06:44.840
+Old K sangat yakin bahwa
+
+00:06:44.840 --> 00:06:46.600
+asalkan dia bisa menemukan lokasinya,
+
+00:06:46.600 --> 00:06:48.040
+dia bisa mendapatkan apa yang ada di dalamnya.
+
+00:06:49.720 --> 00:06:51.650
+Dia pasti sudah tahu kata sandinya.
+
+00:06:54.880 --> 00:06:56.120
+Bisakah Anda membuat perangkat?
+
+00:06:56.120 --> 00:06:57.159
+Perangkat jenis apa?
+
+00:06:57.159 --> 00:06:57.920
+Yang terlihat persis seperti
+
+00:06:57.920 --> 00:06:59.360
+guci ini,
+
+00:06:59.360 --> 00:07:00.520
+replika satu-ke-satu yang sempurna.
+
+00:07:00.520 --> 00:07:02.280
+Namun setiap kali seseorang memasukkan kata sandi,
+
+00:07:02.280 --> 00:07:05.540
+kita dapat memperoleh informasi kata sandi itu secara bersamaan.
+
+00:07:05.960 --> 00:07:06.920
+Itu seharusnya memungkinkan.
+
+00:07:06.920 --> 00:07:07.600
+Namun,
+
+00:07:07.600 --> 00:07:08.800
+Aku butuh waktu.
+
+00:07:09.080 --> 00:07:09.720
+Bagus.
+
+00:07:09.720 --> 00:07:10.360
+Terima kasih atas kerja kerasmu,
+
+00:07:10.360 --> 00:07:11.620
+tetapi kita membutuhkannya dengan cepat.
+
+00:07:26.280 --> 00:07:27.080
+Keriting.
+
+00:07:28.360 --> 00:07:29.960
+Anda dapat menghubungi Chi Xia sekarang.
+
+00:07:30.160 --> 00:07:31.040
+Katakan padanya
+
+00:07:31.360 --> 00:07:33.880
+kami sudah menerapkan proses teknis pada guci tersebut
+
+00:07:33.880 --> 00:07:35.440
+dan akan melakukan pengawasan di sini.
+
+00:07:35.440 --> 00:07:38.200
+Dia sekarang dapat menggunakan susunan data untuk dipertukarkan dengan Fu Gang.
+
+00:07:38.200 --> 00:07:39.000
+Ya.
+
+00:07:39.960 --> 00:07:42.200
+Pastikan Fu Gang kembali ke negaranya dengan selamat.
+
+00:07:42.200 --> 00:07:43.120
+Katakan padanya
+
+00:07:43.280 --> 00:07:44.740
+untuk berhati-hati juga.
+
+00:07:45.560 --> 00:07:46.360
+Oke.
+
+00:08:17.760 --> 00:08:18.480
+Kapten Luo,
+
+00:08:18.480 --> 00:08:19.200
+ini aku.
+
+00:08:20.280 --> 00:08:21.640
+Old K akan kembali besok.
+
+00:08:21.640 --> 00:08:23.160
+Waktu operasinya adalah pukul 6 sore.
+
+00:08:23.160 --> 00:08:24.040
+Dia menggunakan alamat palsu
+
+00:08:24.040 --> 00:08:25.700
+untuk menguji apakah saya benar-benar telah berubah.
+
+00:08:26.040 --> 00:08:28.000
+Jadi kirimkan orang-orangmu ke Museum Lizang
+
+00:08:28.000 --> 00:08:29.040
+untuk mengadakan pertunjukan untuknya.
+
+00:08:29.040 --> 00:08:30.200
+Buat dia percaya bahwa Pemakaman Jile
+
+00:08:30.200 --> 00:08:31.760
+belum ditemukan oleh polisi
+
+00:08:31.760 --> 00:08:33.000
+dan menganggapnya masih aman.
+
+00:08:33.000 --> 00:08:33.720
+TIDAK.
+
+00:08:34.320 --> 00:08:35.880
+Anda pasti akan terekspos dengan cara ini.
+
+00:08:35.880 --> 00:08:37.520
+Sudahkah Anda mempertimbangkan situasi Anda sendiri?
+
+00:08:37.520 --> 00:08:38.720
+Luo Xun, dengarkan aku.
+
+00:08:38.840 --> 00:08:40.840
+Aku tidak akan bersama Old K besok.
+
+00:08:40.880 --> 00:08:42.539
+Dia memberiku tugas lain
+
+00:08:42.760 --> 00:08:44.080
+juga pada jam 6 sore.
+
+00:08:44.360 --> 00:08:46.400
+Dia ingin saya mengikuti orang-orang dari Grup Kete
+
+00:08:46.400 --> 00:08:48.260
+ke Hotel Lilong di perbatasan.
+
+00:08:48.320 --> 00:08:50.050
+Bernegosiasi dengan apoteker
+
+00:08:50.280 --> 00:08:51.720
+yang tidak dapat mengirimkan barang paling lambat tanggal 8 bulan depan.
+
+00:08:51.720 --> 00:08:53.160
+Dia juga dalam situasi buntu.
+
+00:08:53.160 --> 00:08:55.080
+Dia tidak berani menyinggung Divisi Khusus pada titik ini.
+
+00:08:55.080 --> 00:08:56.040
+Jadi ketika kami menangkapnya
+
+00:08:56.040 --> 00:08:57.500
+di Pemakaman Paradise,
+
+00:08:57.520 --> 00:08:58.960
+kamu tidak perlu khawatir
+
+00:08:58.960 --> 00:09:00.360
+tentang kehadiranku di sana.
+
+00:09:00.720 --> 00:09:03.120
+Cukup atur operasinya dengan percaya diri.
+
+00:09:03.320 --> 00:09:05.180
+Saya tahu apa yang Anda khawatirkan.
+
+00:09:06.040 --> 00:09:07.040
+Di hotel,
+
+00:09:08.120 --> 00:09:11.200
+Old K tidak punya cara untuk mengendalikan orang-orang dari Grup Kote.
+
+00:09:11.200 --> 00:09:12.530
+Jadi jangan khawatir tentang saya.
+
+00:09:14.680 --> 00:09:15.480
+Chi Xia.
+
+00:09:16.360 --> 00:09:17.680
+Besok kamu akan menghadapi
+
+00:09:17.680 --> 00:09:20.520
+sekelompok penjahat putus asa yang tidak punya apa pun untuk hilang.
+
+00:09:20.520 --> 00:09:21.320
+Tenang saja,
+
+00:09:21.520 --> 00:09:24.240
+Saya pasti akan mendirikan operasi di Hotel Lilong untuk mendukung Anda.
+
+00:09:24.240 --> 00:09:25.320
+Jangan mencoba menjadi pahlawan.
+
+00:09:25.320 --> 00:09:26.520
+Anda harus tetap aman.
+
+00:09:26.880 --> 00:09:28.280
+Jika kita kehilangan orang Kote,
+
+00:09:28.280 --> 00:09:29.520
+Saya bisa menangkap mereka lagi.
+
+00:09:29.520 --> 00:09:31.240
+Tapi besok aku ingin kamu pulang dengan selamat.
+
+00:09:31.240 --> 00:09:32.120
+Apakah kamu mendengarku?
+
+00:09:38.280 --> 00:09:39.400
+Saya mengerti.
+
+00:09:43.400 --> 00:09:44.320
+Operasi ini
+
+00:09:44.680 --> 00:09:47.360
+sangat diprioritaskan oleh departemen provinsi.
+
+00:09:47.360 --> 00:09:49.490
+Organisasi kriminal yang dipimpin oleh Old K
+
+00:09:49.600 --> 00:09:51.800
+telah mengakar di Dongzhou selama bertahun-tahun.
+
+00:09:51.800 --> 00:09:53.060
+Kekuatan mereka sangat besar
+
+00:09:53.200 --> 00:09:54.640
+dan jangkauannya sangat luas,
+
+00:09:54.640 --> 00:09:56.040
+keduanya tidak dapat diremehkan.
+
+00:09:56.040 --> 00:09:59.000
+Sekarang mereka bahkan telah memasuki pasar obat-obatan,
+
+00:09:59.200 --> 00:10:01.440
+menimbulkan ancaman serius
+
+00:10:01.920 --> 00:10:04.480
+terhadap kehidupan dan harta benda manusia.
+
+00:10:04.480 --> 00:10:05.280
+Karena itu,
+
+00:10:05.560 --> 00:10:09.120
+operasi ini harus berhasil dalam satu serangan,
+
+00:10:09.480 --> 00:10:13.200
+dan kita tidak bisa membiarkan dia mundur kembali ke Desa Lawa.
+
+00:10:14.080 --> 00:10:14.880
+Dipahami.
+
+00:10:15.040 --> 00:10:17.100
+Yakinlah, Direktur Qiao.
+
+00:10:20.320 --> 00:10:21.120
+Bagus.
+
+00:10:21.240 --> 00:10:22.800
+Sekarang untuk tugas.
+
+00:10:22.800 --> 00:10:23.560
+Yang,
+
+00:10:24.280 --> 00:10:25.840
+memimpin tim keamanan
+
+00:10:25.840 --> 00:10:28.300
+untuk melakukan pengawasan di Museum Lizang.
+
+00:10:28.760 --> 00:10:29.760
+Jangan terlalu berhati-hati.
+
+00:10:29.760 --> 00:10:30.640
+Pastikan Anda diperhatikan.
+
+00:10:30.640 --> 00:10:31.370
+Dipahami.
+
+00:10:31.800 --> 00:10:32.600
+Lin Wenjue,
+
+00:10:33.200 --> 00:10:35.680
+bawa tim Anda ke Hotel Lilong
+
+00:10:35.680 --> 00:10:37.600
+untuk mendukung Chi Xia.
+
+00:10:37.600 --> 00:10:38.480
+Ajak lebih banyak orang bersama Anda.
+
+00:10:38.480 --> 00:10:39.210
+Dipahami.
+
+00:10:40.760 --> 00:10:41.560
+Luo Xun,
+
+00:10:42.320 --> 00:10:43.850
+penangkapan di Pemakaman Jile
+
+00:10:44.360 --> 00:10:46.560
+akan sepenuhnya menjadi tanggung jawab Anda.
+
+00:10:47.880 --> 00:10:49.720
+Saya akan memastikan misinya tercapai.
+
+00:10:49.720 --> 00:10:50.520
+Kawan-kawan,
+
+00:10:50.720 --> 00:10:53.720
+Organisasi kriminal asing dari Desa Lawa
+
+00:10:53.720 --> 00:10:55.640
+telah menyusup ke Dongzhou.
+
+00:10:55.640 --> 00:10:57.680
+Pemimpin organisasi tersebut, Huang Weisheng,
+
+00:10:57.680 --> 00:10:59.240
+tidak akan berhenti pada apapun
+
+00:10:59.400 --> 00:11:00.800
+untuk mencapai tujuannya.
+
+00:11:01.120 --> 00:11:02.360
+Dalam enam bulan terakhir,
+
+00:11:02.360 --> 00:11:03.960
+beberapa pembunuhan berantai
+
+00:11:04.040 --> 00:11:06.400
+telah membuat orang-orang Dongzhou ketakutan.
+
+00:11:06.640 --> 00:11:07.480
+Dan sekarang,
+
+00:11:07.920 --> 00:11:11.920
+Huang Weisheng telah menginjakkan kaki di tanah Dongzhou.
+
+00:11:12.040 --> 00:11:13.160
+Dalam operasi ini,
+
+00:11:13.440 --> 00:11:15.720
+Kita harus menangkapnya basah.
+
+00:11:16.960 --> 00:11:19.040
+Sudah saatnya membebaskan rakyat kita
+
+00:11:19.120 --> 00:11:21.200
+dari ketakutan mereka.
+
+00:11:21.520 --> 00:11:22.440
+Kita harus membiarkan mereka
+
+00:11:22.680 --> 00:11:26.240
+tinggal di tanah yang dilindungi oleh hukum.
+
+00:11:26.560 --> 00:11:27.760
+Negara kita
+
+00:11:27.920 --> 00:11:29.000
+tidak akan mentolerir
+
+00:11:29.000 --> 00:11:31.560
+infiltrasi oleh organisasi kriminal asing.
+
+00:11:31.560 --> 00:11:32.490
+Untuk negara kita,
+
+00:11:32.680 --> 00:11:33.640
+untuk rakyat kami,
+
+00:11:34.120 --> 00:11:36.180
+dan demi kehormatan kepolisian,
+
+00:11:36.600 --> 00:11:39.680
+kita harus menghilangkan kanker ini
+
+00:11:40.160 --> 00:11:41.690
+dan membasminya sepenuhnya.
+
+00:11:42.360 --> 00:11:43.160
+Dipahami?
+
+00:11:43.240 --> 00:11:44.040
+Dipahami.
+
+00:11:49.440 --> 00:11:50.200
+Luo Xun.
+
+00:11:50.200 --> 00:11:50.840
+Ya, Tuan.
+
+00:11:52.240 --> 00:11:53.320
+Untuk operasi ini,
+
+00:11:53.320 --> 00:11:54.680
+Anda akan memegang kendali penuh.
+
+00:11:54.680 --> 00:11:55.440
+Ya, Tuan.
+
+00:12:01.200 --> 00:12:02.000
+Ayo pergi.
+
+00:12:02.000 --> 00:12:02.760
+Ya.
+
+00:12:35.880 --> 00:12:36.680
+Kapten Luo,
+
+00:12:37.160 --> 00:12:39.120
+Sudah 15 menit lewat dari waktu yang disepakati.
+
+00:12:39.120 --> 00:12:40.200
+Tidak ada tanda-tanda Chi Xia,
+
+00:12:40.200 --> 00:12:42.330
+dan tidak ada apoteker yang muncul.
+
+00:12:44.560 --> 00:12:45.490
+Saya membuat kesalahan.
+
+00:12:46.200 --> 00:12:47.760
+Hotel Lilong hanya kedoknya saja.
+
+00:12:47.760 --> 00:12:49.840
+Chi Xia pasti bersama Old K sekarang.
+
+00:12:50.200 --> 00:12:51.000
+Ya,
+
+00:12:51.120 --> 00:12:52.400
+Keluarkan semua orang dari sana sekarang.
+
+00:12:52.400 --> 00:12:52.720
+Dipahami.
+
+00:12:52.720 --> 00:12:53.400
+Mengerti.
+
+00:12:54.080 --> 00:12:54.840
+Setiap orang,
+
+00:12:54.840 --> 00:12:55.640
+mundur sekarang!
+
+00:12:59.480 --> 00:13:00.280
+Unit bergerak,
+
+00:13:00.400 --> 00:13:01.480
+bersiap.
+
+00:13:01.760 --> 00:13:02.520
+Salin itu.
+
+00:13:11.960 --> 00:13:13.040
+Qu Bai mahal.
+
+00:13:22.640 --> 00:13:23.440
+Chi Xia
+
+00:13:27.920 --> 00:13:29.000
+Semua unit,
+
+00:13:29.040 --> 00:13:29.970
+menunggu perintahku.
+
+00:13:30.280 --> 00:13:32.080
+Bersiaplah untuk mengepung dan menangkap target.
+
+00:13:32.080 --> 00:13:32.760
+Tim Satu, salin.
+
+00:13:32.760 --> 00:13:33.620
+Tim Dua, salin.
+
+00:13:40.400 --> 00:13:42.320
+Tim intersepsi jalan pegunungan sudah di posisinya.
+
+00:13:42.320 --> 00:13:43.160
+Blokir semua jalan
+
+00:13:43.160 --> 00:13:44.640
+dan menghentikan semua kendaraan yang lewat.
+
+00:13:44.640 --> 00:13:45.240
+Salin itu.
+
+00:13:48.800 --> 00:13:50.040
+Gucinya ada di sini.
+
+00:13:56.600 --> 00:13:58.060
+Amankan kunci kata sandi.
+
+00:13:58.200 --> 00:13:58.800
+Mengerti.
+
+00:14:18.320 --> 00:14:19.080
+Selesai.
+
+00:14:26.160 --> 00:14:26.840
+Kumpulkan bukti.
+
+00:14:26.840 --> 00:14:27.480
+Mengerti.
+
+00:14:34.960 --> 00:14:35.760
+Kapten Luo.
+
+00:14:37.920 --> 00:14:38.440
+Oke.
+
+00:14:46.280 --> 00:14:47.040
+Setiap orang,
+
+00:14:47.040 --> 00:14:48.240
+bergerak masuk dan mengepung.
+
+00:14:48.880 --> 00:14:50.210
+Tim dua, ambil kiri.
+
+00:14:52.200 --> 00:14:53.460
+Tim penyerang, maju.
+
+00:14:55.160 --> 00:14:56.720
+Tim belakang sudah pada posisinya.
+
+00:14:58.440 --> 00:15:00.040
+Tim satu, lompat ke depan.
+
+00:15:01.200 --> 00:15:01.860
+Jangan bergerak.
+
+00:15:02.360 --> 00:15:02.720
+Membekukan!
+
+00:15:02.720 --> 00:15:03.200
+POLISI!
+
+00:15:03.200 --> 00:15:03.800
+Jangan bergerak!
+
+00:15:03.800 --> 00:15:04.520
+POLISI!
+
+00:15:04.960 --> 00:15:05.420
+Membekukan!
+
+00:15:06.360 --> 00:15:08.160
+Jatuhkan senjata kalian.
+
+00:15:08.240 --> 00:15:09.240
+Letakkan semua senjata.
+
+00:15:10.240 --> 00:15:11.040
+Jangan ada yang bergerak.
+
+00:15:13.400 --> 00:15:15.400
+Ini adalah bom yang dipicu oleh tekanan.
+
+00:15:15.640 --> 00:15:17.840
+Jika jatuh ke tanah meski sedikit,
+
+00:15:18.360 --> 00:15:19.680
+bom di Chi Xia
+
+00:15:19.680 --> 00:15:21.000
+akan segera meledak.
+
+00:15:21.000 --> 00:15:22.400
+Bomnya tidak kuat,
+
+00:15:22.400 --> 00:15:23.930
+tetapi itu cukup untuk membunuhnya.
+
+00:15:25.600 --> 00:15:26.800
+Singkirkan blokade.
+
+00:15:27.880 --> 00:15:29.200
+Atau Chi Xia
+
+00:15:29.680 --> 00:15:30.840
+mati bersama kita.
+
+00:15:32.160 --> 00:15:32.960
+Kapten Luo,
+
+00:15:34.080 --> 00:15:35.280
+jangan khawatirkan aku.
+
+00:15:35.960 --> 00:15:37.020
+Tangkap mereka terlebih dulu.
+
+00:15:43.000 --> 00:15:43.800
+Setiap orang,
+
+00:15:43.800 --> 00:15:44.520
+kembali.
+
+00:15:45.640 --> 00:15:46.760
+Temukan bidikan yang jelas.
+
+00:15:47.200 --> 00:15:47.880
+Salin itu.
+
+00:15:48.800 --> 00:15:49.480
+Mundur!
+
+00:15:50.480 --> 00:15:51.160
+Mundur!
+
+00:15:54.640 --> 00:15:56.440
+Ada jaring penangkap di luar.
+
+00:15:57.040 --> 00:15:58.960
+Bahkan jika kamu bertarung seperti binatang yang terpojok,
+
+00:15:58.960 --> 00:16:00.760
+Anda tidak dapat lolos dari keadilan.
+
+00:16:02.360 --> 00:16:03.320
+Dalam hidupku,
+
+00:16:04.360 --> 00:16:06.420
+Saya telah melihat banyak anak yang sok pintar.
+
+00:16:07.160 --> 00:16:09.080
+Ketika air pasang menyapu pasir,
+
+00:16:09.080 --> 00:16:10.520
+hanya aku yang tetap berdiri.
+
+00:16:11.800 --> 00:16:12.600
+Chi Xia,
+
+00:16:13.640 --> 00:16:15.440
+apakah kamu berani mati bersamaku?
+
+00:16:53.800 --> 00:16:54.800
+Sekarang saya mengerti.
+
+00:16:55.040 --> 00:16:56.200
+K Tua menyandera Chi Xia
+
+00:16:56.200 --> 00:16:57.560
+agar dia bisa melarikan diri
+
+00:16:57.560 --> 00:16:59.720
+sambil memaksa kami menyerahkan formulanya.
+
+00:16:59.720 --> 00:17:01.780
+Tidak ada waktu untuk mencari ahli bom.
+
+00:17:02.000 --> 00:17:02.800
+Setiap orang,
+
+00:17:02.880 --> 00:17:03.810
+tetap pada posisi
+
+00:17:03.920 --> 00:17:06.180
+dan bersiap untuk mengepung dan menangkapnya.
+
+00:17:13.400 --> 00:17:14.119
+Kapten Luo.
+
+00:17:14.119 --> 00:17:15.250
+Itu bukan salahmu.
+
+00:17:15.640 --> 00:17:16.520
+Kapten Luo.
+
+00:17:17.040 --> 00:17:19.040
+Aku tahu kamu tidak akan mengecewakanku.
+
+00:17:19.599 --> 00:17:20.680
+Mari kita mulai.
+
+00:17:20.960 --> 00:17:23.599
+Beritahu aku rumus kimianya
+
+00:17:23.960 --> 00:17:25.690
+sebagai ganti nyawa Chi Xia.
+
+00:17:25.960 --> 00:17:27.490
+Jangan bilang aku tidak memperingatkanmu.
+
+00:17:27.720 --> 00:17:29.320
+Jika Anda mencoba menjinakkan bom,
+
+00:17:30.680 --> 00:17:32.410
+Anda akan mengumpulkan mayat.
+
+00:17:37.840 --> 00:17:38.640
+Chi Xia.
+
+00:17:39.280 --> 00:17:40.800
+Ini adalah rumus kimia.
+
+00:17:40.800 --> 00:17:41.800
+Hafalkan dengan cepat.
+
+00:17:41.800 --> 00:17:43.000
+Saya percaya ingatanmu.
+
+00:17:55.760 --> 00:17:56.820
+Saya sudah menghafalnya.
+
+00:18:06.640 --> 00:18:07.440
+K.
+
+00:18:08.000 --> 00:18:09.060
+Dengarkan baik-baik.
+
+00:18:09.560 --> 00:18:11.800
+Chi Xia adalah satu-satunya yang mengetahui rumus ini sekarang.
+
+00:18:11.800 --> 00:18:13.200
+Jika dia meninggal hari ini,
+
+00:18:13.600 --> 00:18:15.640
+bahkan jika kamu lolos dari polisi,
+
+00:18:16.120 --> 00:18:17.450
+pada tanggal 8 bulan depan,
+
+00:18:17.720 --> 00:18:19.520
+Kamu akan mati dengan lebih menyedihkan.
+
+00:18:20.920 --> 00:18:22.320
+Kamu meminta kematian.
+
+00:18:26.000 --> 00:18:27.120
+Saya akan hitung sampai sepuluh.
+
+00:18:27.480 --> 00:18:30.480
+Jika Anda tidak menyerahkan rumus tersebut dalam waktu sepuluh detik,
+
+00:18:30.480 --> 00:18:32.140
+kalian berdua akan mati bersama.
+
+00:18:32.960 --> 00:18:33.520
+Luo Xun,
+
+00:18:33.520 --> 00:18:34.520
+menjauhlah dariku.
+
+00:18:37.120 --> 00:18:37.960
+Pergilah.
+
+00:18:39.760 --> 00:18:40.560
+Sembilan.
+
+00:18:47.720 --> 00:18:48.240
+Tujuh.
+
+00:18:55.520 --> 00:18:56.720
+Kamu benar-benar bodoh.
+
+00:18:56.920 --> 00:18:57.720
+Lima.
+
+00:19:34.920 --> 00:19:36.360
+Sekarang sudah gelap.
+
+00:19:36.840 --> 00:19:38.680
+Old K bersembunyi di hutan lebat.
+
+00:19:38.680 --> 00:19:39.800
+Jika terjadi kesalahan,
+
+00:19:39.800 --> 00:19:41.520
+Kami akan membiarkan harimau itu kembali ke gunung.
+
+00:19:41.520 --> 00:19:42.760
+Dia pasti punya rencana cadangan.
+
+00:19:42.760 --> 00:19:44.220
+Aku mungkin juga bisa menjadi umpannya.
+
+00:19:44.400 --> 00:19:45.660
+Bermain sebagai agen ganda.
+
+00:19:45.800 --> 00:19:47.260
+Kamu tidak cukup pintar.
+
+00:19:48.280 --> 00:19:49.840
+Aku punya sepuluh ribu cara
+
+00:19:50.200 --> 00:19:51.200
+untuk membuatmu berbicara.
+
